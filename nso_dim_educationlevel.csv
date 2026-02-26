@@ -1,0 +1,199 @@
+﻿EducationLevelKey,ParentEducationLevelKey,ThaiEducationLevelName,EnglishEducationLevelName
+1,,ระดับก่อนประถมศึกษา,Pre-primary Education
+11,1,สามัญศึกษา,General Education
+110,11,ผู้สำเร็จหลักสูตร,Graduated Level
+111,11,อนุบาล  / เด็กเล็ก  / ปฐมวัย,Kindergarten
+2,,ระดับประถมศึกษา,Primary Education
+21,2,สามัญศึกษา,General Education
+210,21,ผู้สำเร็จหลักสูตร,Graduated Level
+211,21,ประถมศึกษาปีที่ 1  / เกรด 1,Primary level grade 1
+212,21,ประถมศึกษาปีที่ 2  / เกรด 2  / การศึกษานอกโรงเรียน (กศน.) ระดับ 1,Primary level grade 2
+213,21,ประถมศึกษาปีที่ 3 / เกรด 3,Primary level grade 3
+214,21,ประถมศึกษาปีที่ 4 / เกรด 4 / การศึกษานอกโรงเรียน (กศน.) ระดับ 2,Primary level grade 4
+215,21,ประถมศึกษาปีที่ 5 / เกรด 5,Primary level grade 5
+216,21,ประถมศึกษาปีที่ 6 / เกรด 6 / การศึกษานอกโรงเรียน (กศน.) ระดับ 3,Primary level grade 6
+219,21,ไม่ทราบชั้นเรียน,Unknown Level
+24,2,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกธรรม,Religious Study : Buddhism
+240,24,ผู้สำเร็จหลักสูตร,Graduated Level
+241,24,นักธรรมตรี,First Level
+242,24,นักธรรมโท,Second Level
+243,24,นักธรรมเอก,Third Level
+249,24,ไม่ทราบชั้นเรียน,Unknown Level
+25,2,การศึกษาทางศาสนา : อิสลามศึกษา แผนกสามัญศึกษา,Religious Study : Islamic
+250,25,ผู้สำเร็จหลักสูตร,Graduated Level
+251,25,ประถมศึกษาปีที่ 1,Primary level grade 1
+252,25,ประถมศึกษาปีที่ 2,Primary level grade 2
+253,25,ประถมศึกษาปีที่ 3,Primary level grade 3
+254,25,ประถมศึกษาปีที่ 4,Primary level grade 4
+255,25,ประถมศึกษาปีที่ 5,Primary level grade 5
+256,25,ประถมศึกษาปีที่ 6,Primary level grade 6
+259,25,ไม่ทราบชั้นเรียน,Unknown Level
+3,,ระดับมัธยมศึกษาตอนต้น,Lower Secondary Education
+31,3,สามัญศึกษา,General Education
+310,31,ผู้สำเร็จหลักสูตร,Graduated Level
+311,31,มัธยมศึกษาปีที่ 1 / เกรด 7 / นาฎศิลป์ชั้นปีที่ 1,"Lower-secondary Level, first year"
+312,31,มัธยมศึกษาปีที่ 2 / เกรด 8 / นาฎศิลป์ชั้นปีที่ 2,"Lower-secondary Level, second year"
+313,31,มัธยมศึกษาปีที่ 3 / เกรด 9 / นาฎศิลป์ชั้นปีที่ 3 /  การศึกษานอกโรงเรียน (กศน.) ระดับ 4 ,"Lower-secondary Level, third year"
+319,31,ไม่ทราบชั้นเรียน,Unknown Level
+32,3,อาชีวศึกษา,Lower-vocational Education
+320,32,ผู้สำเร็จหลักสูตร,Graduated Level
+321,32,ดุริยางค์ทหารบกชั้นปีที่ 1 / ดุริยางค์ทหารเรือชั้นปีที่ 1,"Military/ Orchestra School,  first year"
+322,32,ดุริยางค์ทหารบกชั้นปีที่ 2 / ดุริยางค์ทหารเรือชั้นปีที่ 2,"Military/ Orchestra School,  second year"
+323,32,ดุริยางค์ทหารบกชั้นปีที่ 3 / ดุริยางค์ทหารเรือชั้นปีที่ 3,"Military/ Orchestra School, third year"
+329,32,ไม่ทราบชั้นเรียน,Unknown Level
+33,3,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกสามัญศึกษา,Religious Study : Buddhism (General)
+330,33,ผู้สำเร็จหลักสูตร,Graduated Level
+331,33,มัธยมศึกษาปีที่ 1,"Lower-secondary Level, first year"
+332,33,มัธยมศึกษาปีที่ 2,"Lower-secondary Level, second year"
+333,33,มัธยมศึกษาปีที่ 3,"Lower-secondary Level, third year"
+339,33,ไม่ทราบชั้นเรียน,Unknown Level
+34,3,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกบาลี,Religious Study : Buddhism (Bali)
+340,34,ผู้สำเร็จหลักสูตร,Graduated Level
+341,34,บาลีประโยค 1-2,Bali 1 - 2
+342,34,เปรียญธรรมประโยค 3,Bali 3
+349,34,ไม่ทราบชั้นเรียน,Unknown Level
+35,3,การศึกษาทางศาสนา : อิสลามศึกษา แผนกสามัญศึกษา,Religious Study : Islamic (General)
+350,35,ผู้สำเร็จหลักสูตร,Graduated Level
+351,35,มัธยมศึกษาปีที่ 1,"Lower-secondary Level, first year"
+352,35,มัธยมศึกษาปีที่ 2,"Lower-secondary Level, second year"
+353,35,มัธยมศึกษาปีที่ 3,"Lower-secondary Level, third year"
+359,35,ไม่ทราบชั้นเรียน,Unknown Level
+4,,ระดับมัธยมศึกษาตอนปลาย,Upper Secondary Education
+41,4,สามัญศึกษา,General Education
+410,41,ผู้สำเร็จหลักสูตร,Graduated Level
+411,41,มัธยมศึกษาปีที่ 4 / เกรด 10 / เตรียมทหารชั้นปีที่ 1,"Upper-secondary Level, first year"
+412,41,มัธยมศึกษาปีที่ 5 / เกรด 11 / เตรียมทหารชั้นปีที่ 2,"Upper-secondary Level, second year"
+413,41,มัธยมศึกษาปีที่ 6 / เกรด 12 / เตรียมทหารชั้นปีที่ 3 / การศึกษานอกโรงเรียน (กศน.) ระดับ 5,"Upper-secondary Level, third year"
+419,41,ไม่ทราบชั้นเรียน,Unknown Level
+42,4,อาชีวศึกษา,Upper-vocational Education
+420,42,ผู้สำเร็จหลักสูตร,Graduated Level
+421,42,ประกาศนียบัตรวิชาชีพ (ปวช.) ชั้นปีที่ 1,"Upper-vocational Level, first year"
+422,42,ประกาศนียบัตรวิชาชีพ (ปวช.) ชั้นปีที่ 2,"Upper-vocational Level, second year"
+423,42,ประกาศนียบัตรวิชาชีพ (ปวช.) ชั้นปีที่ 3,"Upper-vocational Level, third year"
+429,42,ไม่ทราบชั้นเรียน,Unknown Level
+43,4,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกสามัญศึกษา,Religious Study : Buddhism (General)
+430,43,ผู้สำเร็จหลักสูตร,Graduated Level
+431,43,มัธยมศึกษาปีที่ 4,"Upper-secondary Level, first year"
+432,43,มัธยมศึกษาปีที่ 5,"Upper-secondary Level, second year"
+433,43,มัธยมศึกษาปีที่ 6,"Upper-secondary Level, third year"
+439,43,ไม่ทราบชั้นเรียน,Unknown Level
+44,4,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกบาลี,Religious Study : Buddhism (Bali)
+440,44,ผู้สำเร็จหลักสูตร,Graduated Level
+441,44,เปรียญธรรมประโยค 4,Bali 4
+442,44,เปรียญธรรมประโยค 5,Bali 5
+443,44,เปรียญธรรมประโยค 6,Bali 6
+449,44,ไม่ทราบชั้นเรียน,Unknown Level
+45,4,การศึกษาทางศาสนา : อิสลามศึกษา แผนกสามัญศึกษา,Religious Study : Islamic (General)
+450,45,ผู้สำเร็จหลักสูตร,Graduated Level
+451,45,มัธยมศึกษาปีที่ 4,"Upper-secondary Level, first year"
+452,45,มัธยมศึกษาปีที่ 5,"Upper-secondary Level, second year"
+453,45,มัธยมศึกษาปีที่ 6,"Upper-secondary Level, third year"
+459,45,ไม่ทราบชั้นเรียน,Unknown Level
+46,4,ประกาศนียบัตรระดับสูงกว่ามัธยมศึกษาตอนปลายแต่ต่ํากว่าอนุปริญญา (ประกาศนียบัตรวิชาชีพพิเศษ : รับผู้จบ ม.6 หรือ ปวช. เรียนต่อสายวิชาชีพ 1-1.5  ปี) ,Certificate in Education Higher than Upper-secondary Level but Lower than Post-secondary Level
+460,46,ผู้สำเร็จหลักสูตร,Graduated Level
+461,46,ประกาศนียบัตรวิชาชีพพิเศษชั้นปีที่ 1,First Year
+462,46,ประกาศนียบัตรวิชาชีพพิเศษชั้นปีที่ 2,Second Year
+5,,ระดับสูงกว่ามัธยมศึกษาตอนปลาย (อนุปริญญา),Post-secondary Education
+51,5,สามัญศึกษา,General Education
+510,51,ผู้สำเร็จหลักสูตร,Graduated Level
+511,51,อนุปริญญาชั้นปีที่ 1,"Post-secondary Level, first year"
+512,51,อนุปริญญาชั้นปีที่ 2,"Post-secondary Level, second year"
+519,51,ไม่ทราบชั้นเรียน,Unknown Level
+52,5,อาชีวศึกษา,Higher-vocational / Technical Education
+520,52,ผู้สำเร็จหลักสูตร,Graduated Level
+521,52,ประกาศนียบัตรวิชาชีพชั้นสูง (ปวส.) ชั้นปีที่ 1 / ประกาศนียบัตรวิชาชีพเทคนิค (ปวท.) ชั้นปีที่ 1 / ประกาศนียบัตรวิชาการศึกษาชั้นสูง (ปกศ.สูง) ปี 1,"Higher-vocational/ Technical Level, first year"
+522,52,ประกาศนียบัตรวิชาชีพชั้นสูง (ปวส.) ชั้นปีที่ 2 / ประกาศนียบัตรวิชาชีพเทคนิค (ปวท.) ชั้นปีที่ 2 / ประกาศนียบัตรวิชาการศึกษาชั้นสูง (ปกศ.สูง) ปี 2,"Higher-vocational/Technical Level, second year"
+523,52,ประกาศนียบัตรวิชาชีพชั้นสูง (ปวส.) ชั้นปีที่ 3 / ประกาศนียบัตรวิชาชีพเทคนิค (ปวท.) ชั้นปีที่ 3 / ประกาศนียบัตรวิชาการศึกษาชั้นสูง (ปกศ.สูง) ปี 3,"Higher-vocational/ Technical Level, third year"
+529,52,ไม่ทราบชั้นเรียน,Unknown Level
+6,,ระดับปริญญาตรี,Bachelor Degree
+61,6,ปริญญาตรี,Bachelor Degree
+610,61,ผู้สำเร็จหลักสูตร,Graduated Level
+611,61,ปริญญาตรีชั้นปีที่ 1,"Bachelor Level, first year"
+612,61,ปริญญาตรีชั้นปีที่ 2,"Bachelor Level, second year"
+613,61,ปริญญาตรีชั้นปีที่ 3,"Bachelor Level, third year"
+614,61,ปริญญาตรีชั้นปีที่ 4,"Bachelor Level, fourth year"
+615,61,ปริญญาตรีชั้นปีที่ 5,"Bachelor Level, fifth year"
+616,61,ปริญญาตรีชั้นปีที่ 6,"Bachelor Level, sixth year"
+619,61,ไม่ทราบชั้นเรียน,Unknown Level
+63,6,การศึกษาทางศาสนา : พุทธศึกษา,Religious Study : Buddhism
+630,63,ผู้สำเร็จหลักสูตร,Graduated Level
+631,63,ปริญญาตรีชั้นปีที่ 1,"Bachelor Level, first year"
+632,63,ปริญญาตรีชั้นปีที่ 2,"Bachelor Level, second year"
+633,63,ปริญญาตรีชั้นปีที่ 3,"Bachelor Level, third year"
+634,63,ปริญญาตรีชั้นปีที่ 4,"Bachelor Level, fourth year"
+639,63,ไม่ทราบชั้นเรียน,Unknown Level
+64,6,การศึกษาทางศาสนา : พุทธศึกษา พระปริยัติธรรม แผนกบาลี,Religious Study : Buddhism (Bali)
+640,64,ผู้สำเร็จหลักสูตร,Graduated Level
+641,64,เปรียญธรรมประโยค 7,Bali 7
+642,64,เปรียญธรรมประโยค 8,Bali 8
+643,64,เปรียญธรรมประโยค 9,Bali 9
+649,64,ไม่ทราบชั้นเรียน,Unknown Level
+65,6,การศึกษาทางศาสนา : อิสลามศึกษา,Religious Study : Islamic
+650,65,ผู้สำเร็จหลักสูตร,Graduated Level
+651,65,ปริญญาตรีชั้นปีที่ 1,"Bachelor Level, first year"
+652,65,ปริญญาตรีชั้นปีที่ 2,"Bachelor Level, second year"
+653,65,ปริญญาตรีชั้นปีที่ 3,"Bachelor Level, third year"
+654,65,ปริญญาตรีชั้นปีที่ 4,"Bachelor Level, fourth year"
+659,65,ไม่ทราบชั้นเรียน,Unknown Level
+66,6,ประกาศนียบัตรระดับสูงกว่าปริญญาตรี (ประกาศนียบัตรบัณฑิต),Graduated Diploma (higher than Bachelor Degree)
+660,66,ผู้สำเร็จหลักสูตร,Graduated Level
+661,66,ประกาศนียบัตรบัณฑิตชั้นปีที่ 1,"Graduated Diploma Level, first year"
+7,,ระดับปริญญาโท,Master Degree
+71,7,ปริญญาโท,Master Degree
+710,71,ผู้สำเร็จหลักสูตร,Graduated Level
+711,71,ปริญญาโทชั้นปีที่ 1,"Master Degree Level, first year"
+712,71,ปริญญาโทชั้นปีที่ 2,"Master Degree Level, second year"
+719,71,ไม่ทราบชั้นเรียน,Unknown Level
+73,7,การศึกษาทางศาสนา : พุทธศึกษา,Religious Study : Buddhism
+730,73,ผู้สำเร็จหลักสูตร,Graduated Level
+731,73,ปริญญาโทชั้นปีที่ 1,"Master Degree Level, first year"
+732,73,ปริญญาโทชั้นปีที่ 2,"Master Degree Level, second year"
+739,73,ไม่ทราบชั้นเรียน,Unknown Level
+75,7,การศึกษาทางศาสนา : อิสลามศึกษา,Religious Study : Islamic
+750,75,ผู้สำเร็จหลักสูตร,Graduated Level
+751,75,ปริญญาโทชั้นปีที่ 1,"Master Degree Level, first year"
+752,75,ปริญญาโทชั้นปีที่ 2,"Master Degree Level, second year"
+759,75,ไม่ทราบชั้นเรียน,Unknown Level
+76,7,ประกาศนียบัตรระดับสูงกว่าปริญญาโท (ประกาศนียบัตรบัณฑิตชั้นสูง),Graduated Diploma with Special Study  (higher than Master Degree)
+760,76,ผู้สำเร็จหลักสูตร,Graduated Level
+761,76,ประกาศนียบัตรบัณฑิตชั้นสูงชั้นปีที่ 1,"Graduated Diploma level, first year"
+8,,ระดับปริญญาเอก,Doctoral Degree
+81,8,ปริญญาเอก,Doctoral Degree
+810,81,ผู้สำเร็จหลักสูตร,Graduated Level
+811,81,ปริญญาเอกชั้นปีที่ 1,"Doctoral Degree Level, first year"
+812,81,ปริญญาเอกชั้นปีที่ 2,"Doctoral Degree Level, second year"
+813,81,ปริญญาเอกชั้นปีที่ 3,"Doctoral Degree Level, third year"
+819,81,ไม่ทราบชั้นเรียน,Unknown Level
+83,8,การศึกษาทางศาสนา : พุทธศึกษา,Religious Study : Buddhism
+830,83,ผู้สำเร็จหลักสูตร,Graduated Level
+831,83,ปริญญาเอกชั้นปีที่ 1,"Doctoral Degree Level, first year"
+832,83,ปริญญาเอกชั้นปีที่ 2,"Doctoral Degree Level, second year"
+833,83,ปริญญาเอกชั้นปีที่ 3,"Doctoral Degree Level, third year"
+839,83,ไม่ทราบชั้นเรียน,Unknown Level
+85,8,การศึกษาทางศาสนา : อิสลามศึกษา,Religious Study : Islamic
+850,85,ผู้สำเร็จหลักสูตร,Graduated Level
+851,85,ปริญญาเอกชั้นปีที่ 1,"Doctoral Degree Level, first year"
+852,85,ปริญญาเอกชั้นปีที่ 2,"Doctoral Degree Level, second year"
+853,85,ปริญญาเอกชั้นปีที่ 3,"Doctoral Degree Level, third year"
+859,85,ไม่ทราบชั้นเรียน,Unknown Level
+86,8,ประกาศนียบัตรระดับสูงกว่าปริญญาเอก,Graduated Diploma (higher than Doctoral Degree)
+860,86,ผู้สำเร็จหลักสูตร,Graduated Level
+861,86,ประกาศนียบัตรระดับสูงกว่าปริญญาเอกชั้นปีที่ 1,"Graduated Diploma , first year"
+87,8,ประกาศนียบัตรแพทย์เฉพาะทาง,Diploma in Special Medical Study
+870,87,ผู้สำเร็จหลักสูตร,Graduated Level
+871,87,แพทย์เฉพาะทางชั้นปีที่ 1,"Special Medical Study, first year"
+872,87,แพทย์เฉพาะทางชั้นปีที่ 2,"Special Medical Study, second year"
+873,87,แพทย์เฉพาะทางชั้นปีที่ 3,"Special Medical Study, third year"
+874,87,แพทย์เฉพาะทางชั้นปีที่ 4,"Special Medical Study, fourth year"
+875,87,แพทย์เฉพาะทางชั้นปีที่ 5,"Special Medical Study, fifth year"
+879,87,ไม่ทราบชั้นเรียน,Unknown Level
+9,,การศึกษาอื่นๆ,Other Education
+91,9,หลักสูตรที่ไม่ได้วุฒิการศึกษา,Non-Degree Program
+911,91,หลักสูตรวิชาชีพระยะสั้น,Short Course Training
+912,91,การศึกษาปอเนาะ,Por - Nor (related to Islamic Study)
+919,91,หลักสูตรอื่นๆ ที่ไม่ได้วุฒิการศึกษา,Other Non-degree Program
+92,9,การศึกษาที่เทียบระดับไมได้,Schooling but Incomparable Level
+921,92,การศึกษาทางศาสนา : อิสลามศึกษา แผนกวิชาศาสนาอิสลาม,Related to Islamic Study
+929,92,การศึกษาอื่นๆ ที่เทียบระดับไม่ได้,Others Incomparable Level
+98,9,เรียนแต่ไม่ทราบระดับการศึกษา,Schooling but Unknown Education Level
+980,98,เรียนแต่ไม่ทราบระดับการศึกษา,Schooling but Unknown Education Level
