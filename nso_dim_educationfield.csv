@@ -1,31 +1,31 @@
-﻿EducationFieldKey,ThaiEducationFieldName,EnglishEducationFieldName
-1,การศึกษา,Education
-14,การฝึกหัดครูและศึกษาศาสตร์,Teacher Training and Education Science
-2,มนุษยศาสตร์และศิลปกรรมศาสตร์,Humanities and Arts
-21,ศิลปกรรมศาสตร์,Arts
-22,มนุษยศาสตร์,Humanities
-3,สังคมศาสตร์ ธุรกิจ และกฎหมาย,"Social Sciences, Business and Law"
-31,สังคมศาสตร์และพฤติกรรมศาสตร์,Social and Behavioural Science
-32,วารสารศาสตร์และสารสนเทศ,Journalism and Information
-34,ธุรกิจและการบริหาร พาณิชยศาสตร์,Business and Administration
-38,กฎหมาย นิติศาสตร์,Law
-4,วิทยาศาสตร์,Science
-42,วิทยาศาสตร์ชีวภาพ,Life Science
-44,วิทยาศาสตร์กายภาพ,Physical Science
-46,คณิตศาสตร์และสถิติ,Mathematics and Statistics
-48,คอมพิวเตอร์,Computing
-5,วิศวกรรมศาสตร์ การผลิต และการก่อสร้าง,"Engineering, Manufacturing and Construction"
-52,วิศวกรรมศาสตร์,Engineering
-54,การผลิตและกระบวนการผลิต,Manufacturing and Processing
-58,สถาปัตยกรรมและการสร้างอาคาร,Architecture and Building
-6,เกษตรศาสตร์,Agriculture
-62,เกษตรศาสตร์ วนศาสตร์ และการประมง,"Agriculture, Forestry and Fishery"
-64,สัตวแพทย์,Veterinary
-7,สุขภาพและสวัสดิการ,Health and Welfare
-72,สุขภาพ,Health
-76,การบริการทางสังคม,Social Services
-8,การบริการ,Services
-81,การบริการส่วนบุคคล,Personal Services
-84,การบริการขนส่ง,Transport Services
-85,การคุ้มครองสิ่งแวดล้อม,Environmental Protection
-86,การบริการด้านการรักษาความปลอดภัย,Security Services
+﻿EducationFieldKey,ParentEducationFieldKey,ThaiEducationFieldName,EnglishEducationFieldName
+1,,การศึกษา,Education
+14,1,การฝึกหัดครูและศึกษาศาสตร์,Teacher Training and Education Science
+2,,มนุษยศาสตร์และศิลปกรรมศาสตร์,Humanities and Arts
+21,2,ศิลปกรรมศาสตร์,Arts
+22,2,มนุษยศาสตร์,Humanities
+3,,สังคมศาสตร์ ธุรกิจ และกฎหมาย,"Social Sciences, Business and Law"
+31,3,สังคมศาสตร์และพฤติกรรมศาสตร์,Social and Behavioural Science
+32,3,วารสารศาสตร์และสารสนเทศ,Journalism and Information
+34,3,ธุรกิจและการบริหาร พาณิชยศาสตร์,Business and Administration
+38,3,กฎหมาย นิติศาสตร์,Law
+4,,วิทยาศาสตร์,Science
+42,4,วิทยาศาสตร์ชีวภาพ,Life Science
+44,4,วิทยาศาสตร์กายภาพ,Physical Science
+46,4,คณิตศาสตร์และสถิติ,Mathematics and Statistics
+48,4,คอมพิวเตอร์,Computing
+5,,วิศวกรรมศาสตร์ การผลิต และการก่อสร้าง,"Engineering, Manufacturing and Construction"
+52,5,วิศวกรรมศาสตร์,Engineering
+54,5,การผลิตและกระบวนการผลิต,Manufacturing and Processing
+58,5,สถาปัตยกรรมและการสร้างอาคาร,Architecture and Building
+6,,เกษตรศาสตร์,Agriculture
+62,6,เกษตรศาสตร์ วนศาสตร์ และการประมง,"Agriculture, Forestry and Fishery"
+64,6,สัตวแพทย์,Veterinary
+7,,สุขภาพและสวัสดิการ,Health and Welfare
+72,7,สุขภาพ,Health
+76,7,การบริการทางสังคม,Social Services
+8,,การบริการ,Services
+81,8,การบริการส่วนบุคคล,Personal Services
+84,8,การบริการขนส่ง,Transport Services
+85,8,การคุ้มครองสิ่งแวดล้อม,Environmental Protection
+86,8,การบริการด้านการรักษาความปลอดภัย,Security Services
