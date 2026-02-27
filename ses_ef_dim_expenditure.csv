@@ -1,0 +1,621 @@
+﻿ExpenditureKey,ParentExpenditureKey,ThaiExpenditureName,EnglishExpenditureName,,
+EF,,ค่าใช้จ่ายอาหาร เครื่องดื่ม และยาสูบ,"Expenditure on Food, Beverages and Tobacco",,
+EF_1,EF,1. ข้าว แป้ง และอาหารที่ทำจากแป้ง,"1. Rice, Starch and Carbohydrate products",,
+EF_2,EF,2. เนื้อสัตว์ และสัตว์ปีกทุกชนิด,2. Meat and Poultry,,
+EF_3,EF,3. ปลาและสัตว์น้ำอื่น ๆ,3. Fishes and Seafood,,
+EF_4,EF,4. อาหารประเภทนม เนย เนยแข็งและไข่,"4. Milk, Butter, Cheese and Eggs",,
+EF_5,EF,5. น้ำมัน และ ไขมัน,5. Oil and Fat,,
+EF_6,EF,6. ผลไม้ และ ถั่วเปลือกแข็ง,6. Fruits and Nuts,,
+EF_7,EF,7. ผัก,7. Vegetables,,
+EF_8,EF,8. น้ำตาล และ ขนมหวาน,8. Sugar and Sweets,,
+EF_9,EF,9. เครื่องปรุงรส และ เครื่องเทศ,9. Spices and Condiments,,
+EF_10,EF,10. เครื่องดื่มไม่มีแอลกอฮอล์ (บริโภคที่บ้าน),10. Non - alcoholic beverages (consumed at home),,
+EF_11,EF,11. อาหารสำเร็จรูปที่ซื้อมา (บริโภคที่บ้าน),11. Prepared food  (consumed at home),,
+EF_12,EF,12. อาหารและเครื่องดื่มที่ไม่มีแอลกอฮอล์,12. Food and Non-alcoholic beverages,,
+EF_13,EF,13. เครื่องดื่มที่มีแอลกอฮอล์ (เช่น เบียร์ ไวน์ สุรา ฯลฯ),13. Alcoholic beverages,,
+EF_14,EF,14. ยาสูบ  หมาก ยานัตถุ์และผลิตภัณฑ์ประเภทเดียวกัน,14. Tobacco products,,
+EF01A,EF_1,1. ข้าว แป้ง และอาหารที่ทำจากแป้ง (ตัวเงิน),"1. Rice, Starch and Carbohydrate products (cash)",,
+EF01BC,EF_1,1. ข้าว แป้ง และอาหารที่ทำจากแป้ง (สิ่งของ),"1. Rice, Starch and Carbohydrate products (in-kind)",,
+EF0101A,EF01A,เส้นก๋วยเตี๋ยว / บะหมี่ (ตัวเงิน),Chinese noodle / Chinese egg noodle (cash),,
+EF0101BC,EF01BC,เส้นก๋วยเตี๋ยว / บะหมี่ (สิ่งของ),Chinese noodle / Chinese egg noodle (in-kind),,
+EF0102A,EF01A,เส้นขนมจีน (ตัวเงิน),Thai vermicelli (cash),,
+EF0102BC,EF01BC,เส้นขนมจีน (สิ่งของ),Thai vermicelli (in-kind),,
+EF0103A,EF01A,ขนมปังปอนด์ (ตัวเงิน),Bread (cash),,
+EF0103BC,EF01BC,ขนมปังปอนด์ (สิ่งของ),Bread (in-kind),,
+EF0104A,EF01A,ขนมอบ / เค้ก / ขนมที่ทำจากแป้งเป็นส่วนใหญ่ (ตัวเงิน),Bake dessert / cake / most of the ingredients (cash),,
+EF0104BC,EF01BC,ขนมอบ / เค้ก / ขนมที่ทำจากแป้งเป็นส่วนใหญ่ (สิ่งของ),Bake dessert / cake / most of the ingredients (in-kind),,
+EF0105A,EF01A,อาหารจากธัญพืช (ตัวเงิน),Cereal food (cash),,
+EF0105BC,EF01BC,อาหารจากธัญพืช (สิ่งของ),Cereal food (in-kind),,
+EF0106A,EF01A,ข้าวเจ้า (ข้าวสาร) (ตัวเงิน),Rice (cash),,
+EF0106BC,EF01BC,ข้าวเจ้า (ข้าวสาร) (สิ่งของ),Rice (in-kind),,
+EF0107A,EF01A,ข้าวเหนียว (ข้าวสาร) (ตัวเงิน),Glutinous rice (cash),,
+EF0107BC,EF01BC,ข้าวเหนียว (ข้าวสาร) (สิ่งของ),Glutinous rice (in-kind),,
+EF0108A,EF01A,แป้งข้าวเจ้า (ตัวเงิน),Rice flour (cash),,
+EF0108BC,EF01BC,แป้งข้าวเจ้า (สิ่งของ),Rice flour (in-kind),,
+EF0109A,EF01A,แป้งทอดกรอบ / แป้งอเนกประสงค์ (ตัวเงิน),Crispy Flour / All Purpose Flour (cash),,
+EF0109BC,EF01BC,แป้งทอดกรอบ / แป้งอเนกประสงค์ (สิ่งของ),Crispy Flour / All Purpose Flour (in-kind),,
+EF0110A,EF01A,แป้งสาลี  แป้งมันสำปะหลังและแป้งอื่น ๆ (ตัวเงิน),"Wheat, tapioca and other flours (cash)",,
+EF0110BC,EF01BC,แป้งสาลี  แป้งมันสำปะหลังและแป้งอื่น ๆ (สิ่งของ),"Wheat, tapioca and other flours (in-kind)",,
+EF0111A,EF01A,เส้นหมี่ (ตัวเงิน),Noodles (cash),,
+EF0111BC,EF01BC,เส้นหมี่ (สิ่งของ),Noodles (in-kind),,
+EF0112A,EF01A,วุ้นเส้น (ตัวเงิน),Vermicelli (cash),,
+EF0112BC,EF01BC,วุ้นเส้น (สิ่งของ),Vermicelli (in-kind),,
+EF0113A,EF01A,เต้าหู้ (ตัวเงิน),Soybean curd (cash),,
+EF0113BC,EF01BC,เต้าหู้ (สิ่งของ),Soybean curd (in-kind),,
+EF0114A,EF01A,สาคู และอาหารอื่น ๆ ที่ทำจากแป้ง (ระบุ) (ตัวเงิน),Sago and other flour foods (specify) (cash),,
+EF0114BC,EF01BC,สาคู และอาหารอื่น ๆ ที่ทำจากแป้ง (ระบุ) (สิ่งของ),Sago and other flour foods (specify) (in-kind),,
+EF02A,EF_2,2. เนื้อสัตว์ และสัตว์ปีกทุกชนิด (ตัวเงิน),2. Meat and Poultry (cash),,
+EF02BC,EF_2,2. เนื้อสัตว์ และสัตว์ปีกทุกชนิด (สิ่งของ),2. Meat and Poultry (in-kind),,
+EF0201A,EF02A,เนื้อหมูสด (ทุกประเภท ยกเว้นเครื่องใน) (ตัวเงิน),Fresh pork (all types except offal) (cash),,
+EF0201BC,EF02BC,เนื้อหมูสด (ทุกประเภท ยกเว้นเครื่องใน) (สิ่งของ),Fresh pork (all types except offal) (in-kind),,
+EF0202A,EF02A,เครื่องในหมูสด (ตัวเงิน),Fresh pork offal (cash),,
+EF0202BC,EF02BC,เครื่องในหมูสด (สิ่งของ),Fresh pork offal (in-kind),,
+EF0203A,EF02A,เนื้อวัว/ควาย สด (ทุกส่วน ยกเว้นเครื่องใน) (ตัวเงิน),Fresh beef/buffalo (all parts except offal) (cash),,
+EF0203BC,EF02BC,เนื้อวัว/ควาย สด (ทุกส่วน ยกเว้นเครื่องใน) (สิ่งของ),Fresh beef/buffalo (all parts except offal) (in-kind),,
+EF0204A,EF02A,เครื่องในวัว/ควาย สด (ตัวเงิน),Fresh cow/buffalo offal (cash),,
+EF0204BC,EF02BC,เครื่องในวัว/ควาย สด (สิ่งของ),Fresh cow/buffalo offal (in-kind),,
+EF0205A,EF02A,ไก่สด (ทุกส่วน รวมเครื่องใน) (ตัวเงิน),Fresh Chicken (all parts including offal) (cash),,
+EF0205BC,EF02BC,ไก่สด (ทุกส่วน รวมเครื่องใน) (สิ่งของ),Fresh Chicken (all parts including offal) (in-kind),,
+EF0206A,EF02A,เนื้อสัตว์อื่น ๆ (ตัวเงิน),Other meat (cash),,
+EF0206BC,EF02BC,เนื้อสัตว์อื่น ๆ (สิ่งของ),Other meat (in-kind),,
+EF0207A,EF02A,ไส้กรอกหมู/ไก่ (ตัวเงิน),Pork/chicken sausage (cash),,
+EF0207BC,EF02BC,ไส้กรอกหมู/ไก่ (สิ่งของ),Pork/chicken sausage (in-kind),,
+EF0208A,EF02A,หมูหยอง/ไก่หยอง (ตัวเงิน),Shredded pork/chicken (cash),,
+EF0208BC,EF02BC,หมูหยอง/ไก่หยอง (สิ่งของ),Shredded pork/chicken (in-kind),,
+EF0209A,EF02A,กุนเชียงหมู (ตัวเงิน),Chinese sausage (cash),,
+EF0209BC,EF02BC,กุนเชียงหมู (สิ่งของ),Chinese sausage (in-kind),,
+EF0210A,EF02A,ลูกชิ้นหมู/ไก่/เนื้อ (ตัวเงิน),Pork/chicken/beef meatballs (cash),,
+EF0210BC,EF02BC,ลูกชิ้นหมู/ไก่/เนื้อ (สิ่งของ),Pork/chicken/beef meatballs (in-kind),,
+EF0211A,EF02A,แหนม/หมูยอ/ไก่ยอ (ตัวเงิน),Sour pork / pork sausage / chicken sausage (cash),,
+EF0211BC,EF02BC,แหนม/หมูยอ/ไก่ยอ (สิ่งของ),Sour pork / pork sausage / chicken sausage (in-kind),,
+EF0212A,EF02A,เนื้อสัตว์ (แปรรูป)  อื่น ๆ (ระบุ) (ตัวเงิน),Other processed meat (specify) (cash),,
+EF0212BC,EF02BC,เนื้อสัตว์ (แปรรูป)  อื่น ๆ (ระบุ) (สิ่งของ),Other processed meat (specify) (in-kind),,
+EF03A,EF_3,3. ปลาและสัตว์น้ำอื่น ๆ (ตัวเงิน),3. Fishes and Seafood (cash),,
+EF03BC,EF_3,3. ปลาและสัตว์น้ำอื่น ๆ (สิ่งของ),3. Fishes and Seafood (in-kind),,
+EF0301A,EF03A,ปลาช่อน (ตัวเงิน),Snakehead (cash),,
+EF0301BC,EF03BC,ปลาช่อน (สิ่งของ),Snakehead (in-kind),,
+EF0302A,EF03A,ปลาดุก (ตัวเงิน),Catfish (cash),,
+EF0302BC,EF03BC,ปลาดุก (สิ่งของ),Catfish (in-kind),,
+EF0303A,EF03A,ปลานิล (ตัวเงิน),Nile tilapia (cash),,
+EF0303BC,EF03BC,ปลานิล (สิ่งของ),Nile tilapia (in-kind),,
+EF0304A,EF03A,ปลาทับทิม (ตัวเงิน),Tilapia (cash),,
+EF0304BC,EF03BC,ปลาทับทิม (สิ่งของ),Tilapia (in-kind),,
+EF0305A,EF03A,ปลาจะละเม็ด (ดำ/ ขาว) (ตัวเงิน),Pomfret (black/silver) (cash),,
+EF0305BC,EF03BC,ปลาจะละเม็ด (ดำ/ ขาว) (สิ่งของ),Pomfret (black/silver) (in-kind),,
+EF0306A,EF03A,ปลากะพง (แดง/ ขาว) (ตัวเงิน),Red snapper / giant seaperch (cash),,
+EF0306BC,EF03BC,ปลากะพง (แดง/ ขาว) (สิ่งของ),Red snapper / giant seaperch (in-kind),,
+EF0307A,EF03A,ปลาแดง (ตัวเงิน),SheatFish (cash),,
+EF0307BC,EF03BC,ปลาแดง (สิ่งของ),SheatFish (in-kind),,
+EF0308A,EF03A,ปลาทู/ปลาโอ/ปลาลัง (ตัวเงิน),Mackerel / tuna / crayfish (cash),,
+EF0308BC,EF03BC,ปลาทู/ปลาโอ/ปลาลัง (สิ่งของ),Mackerel / tuna / crayfish (in-kind),,
+EF0309A,EF03A,ปลาแซลมอน (ตัวเงิน),Salmon (cash),,
+EF0309BC,EF03BC,ปลาแซลมอน (สิ่งของ),Salmon (in-kind),,
+EF0310A,EF03A,ปลาสวาย/ปลาดอลลี่ (ตัวเงิน),Pangasius / Dolly fish (cash),,
+EF0310BC,EF03BC,ปลาสวาย/ปลาดอลลี่ (สิ่งของ),Pangasius / Dolly fish (in-kind),,
+EF0311A,EF03A,กุ้งก้ามกราม/กุ้งนาง (กุ้งน้ำจืด) (ตัวเงิน),Giant freshwater prawn (cash),,
+EF0311BC,EF03BC,กุ้งก้ามกราม/กุ้งนาง (กุ้งน้ำจืด) (สิ่งของ),Giant freshwater prawn (in-kind),,
+EF0312A,EF03A,กุ้งขาว (แวนนาไม) (ตัวเงิน),White shrimp (Vannamai) (cash),,
+EF0312BC,EF03BC,กุ้งขาว (แวนนาไม) (สิ่งของ),White shrimp (Vannamai) (in-kind),,
+EF0313A,EF03A,ปลาหมึกกล้วย (ตัวเงิน),Squid (cash),,
+EF0313BC,EF03BC,ปลาหมึกกล้วย (สิ่งของ),Squid (in-kind),,
+EF0314A,EF03A,หอยแครง (ตัวเงิน),Cockle (cash),,
+EF0314BC,EF03BC,หอยแครง (สิ่งของ),Cockle (in-kind),,
+EF0315A,EF03A,หอยลาย (ตัวเงิน),Undulated surf clam (cash),,
+EF0315BC,EF03BC,หอยลาย (สิ่งของ),Undulated surf clam (in-kind),,
+EF0316A,EF03A,หอยแมลงภู่ (ตัวเงิน),Green mussel (cash),,
+EF0316BC,EF03BC,หอยแมลงภู่ (สิ่งของ),Green mussel (in-kind),,
+EF0317A,EF03A,ปูทะเล (ตัวเงิน),Serrated mud crab (cash),,
+EF0317BC,EF03BC,ปูทะเล (สิ่งของ),Serrated mud crab (in-kind),,
+EF0318A,EF03A,ปูม้า (ตัวเงิน),Blue crab (cash),,
+EF0318BC,EF03BC,ปูม้า (สิ่งของ),Blue crab (in-kind),,
+EF0319A,EF03A,กบ/เขียด/อึ่งอ่าง (ตัวเงิน),Frog / Bullfrog (cash),,
+EF0319BC,EF03BC,กบ/เขียด/อึ่งอ่าง (สิ่งของ),Frog / Bullfrog (in-kind),,
+EF0320A,EF03A,สัตว์น้ำอื่น ๆ (ระบุ) (ตัวเงิน),Other aquatic animals (specify) (cash),,
+EF0320BC,EF03BC,สัตว์น้ำอื่น ๆ (ระบุ) (สิ่งของ),Other aquatic animals (specify) (in-kind),,
+EF0321A,EF03A,ปลาหมึกแห้ง (ตัวเงิน),Dried squid (cash),,
+EF0321BC,EF03BC,ปลาหมึกแห้ง (สิ่งของ),Dried squid (in-kind),,
+EF0322A,EF03A,ปลาสลิดแห้ง (ตัวเงิน),Dried snakeskin gourami (cash),,
+EF0322BC,EF03BC,ปลาสลิดแห้ง (สิ่งของ),Dried snakeskin gourami (in-kind),,
+EF0323A,EF03A,ปลาช่อนแห้ง (ตัวเงิน),Dried striped snake - head fish (cash),,
+EF0323BC,EF03BC,ปลาช่อนแห้ง (สิ่งของ),Dried striped snake - head fish (in-kind),,
+EF0324A,EF03A,ปลาทูเค็ม (ตัวเงิน),Salted chub mackerel (cash),,
+EF0324BC,EF03BC,ปลาทูเค็ม (สิ่งของ),Salted chub mackerel (in-kind),,
+EF0325A,EF03A,ปลาอินทรีย์เค็ม (ตัวเงิน),Salted spanish mackerel (cash),,
+EF0325BC,EF03BC,ปลาอินทรีย์เค็ม (สิ่งของ),Salted spanish mackerel (in-kind),,
+EF0326A,EF03A,ปลาหางแข็งเค็ม (ตัวเงิน),Salted trevally (cash),,
+EF0326BC,EF03BC,ปลาหางแข็งเค็ม (สิ่งของ),Salted trevally (in-kind),,
+EF0327A,EF03A,กุ้งแห้ง (ตัวเงิน),Dried shrimp (cash),,
+EF0327BC,EF03BC,กุ้งแห้ง (สิ่งของ),Dried shrimp (in-kind),,
+EF0328A,EF03A,ปูเค็ม (ตัวเงิน),Salted crab (cash),,
+EF0328BC,EF03BC,ปูเค็ม (สิ่งของ),Salted crab (in-kind),,
+EF0329A,EF03A,ลูกชิ้นปลา (ตัวเงิน),Fish balls (cash),,
+EF0329BC,EF03BC,ลูกชิ้นปลา (สิ่งของ),Fish balls (in-kind),,
+EF0330A,EF03A,ปลาร้า (ตัวเงิน),Fermented fish (cash),,
+EF0330BC,EF03BC,ปลาร้า (สิ่งของ),Fermented fish (in-kind),,
+EF0331A,EF03A,ปูอัด (ตัวเงิน),Crab sticks (cash),,
+EF0331BC,EF03BC,ปูอัด (สิ่งของ),Crab sticks (in-kind),,
+EF0332A,EF03A,ปลากระป๋อง (ตัวเงิน),Canned fish (cash),,
+EF0332BC,EF03BC,ปลากระป๋อง (สิ่งของ),Canned fish (in-kind),,
+EF0333A,EF03A,ปลาทูนึ่ง (ตัวเงิน),Steamed Mackerel (cash),,
+EF0333BC,EF03BC,ปลาทูนึ่ง (สิ่งของ),Steamed Mackerel (in-kind),,
+EF0334A,EF03A,สัตว์น้ำ (แปรรูป) อื่น ๆ (ระบุ) (ตัวเงิน),Other processed aquatic animals (specify) (cash),,
+EF0334BC,EF03BC,สัตว์น้ำ (แปรรูป) อื่น ๆ (ระบุ) (สิ่งของ),Other processed aquatic animals (specify) (in-kind),,
+EF04A,EF_4,4. อาหารประเภทนม เนย เนยแข็งและไข่ (ตัวเงิน),"4. Milk, Butter, Cheese and Eggs (cash)",,
+EF04BC,EF_4,4. อาหารประเภทนม เนย เนยแข็งและไข่ (สิ่งของ),"4. Milk, Butter, Cheese and Eggs (in-kind)",,
+EF0401A,EF04A,นมสด (ตัวเงิน),Fresh milk (cash),,
+EF0401BC,EF04BC,นมสด (สิ่งของ),Fresh milk (in-kind),,
+EF0402BC,EF04BC,นมโรงเรียนทุกประเภท (สิ่งของ),All types of school milk (in-kind),,
+EF0403A,EF04A,นมเปรี้ยว/โยเกิร์ต (ตัวเงิน),Drinking yoghurt / Yoghurt (cash),,
+EF0403BC,EF04BC,นมเปรี้ยว/โยเกิร์ต (สิ่งของ),Drinking yoghurt / Yoghurt (in-kind),,
+EF0404A,EF04A,นมถั่วเหลือง (ตัวเงิน),Soybean milk (cash),,
+EF0404BC,EF04BC,นมถั่วเหลือง (สิ่งของ),Soybean milk (in-kind),,
+EF0405A,EF04A,ไข่ไก่ (ตัวเงิน),Hen eggs (cash),,
+EF0405BC,EF04BC,ไข่ไก่ (สิ่งของ),Hen eggs (in-kind),,
+EF0406A,EF04A,ไข่เป็ด (ตัวเงิน),Duck eggs (cash),,
+EF0406BC,EF04BC,ไข่เป็ด (สิ่งของ),Duck eggs (in-kind),,
+EF0407A,EF04A,ไข่เค็ม (ตัวเงิน),Salted eggs (cash),,
+EF0407BC,EF04BC,ไข่เค็ม (สิ่งของ),Salted eggs (in-kind),,
+EF0408A,EF04A,ไข่ชนิดอื่น ๆ (ระบุ) (ตัวเงิน),Other eggs (specify) (cash),,
+EF0408BC,EF04BC,ไข่ชนิดอื่น ๆ (ระบุ) (สิ่งของ),Other eggs (specify) (in-kind),,
+EF0409A,EF04A,นมข้นหวาน (ตัวเงิน),Sweetened condensed milk (cash),,
+EF0409BC,EF04BC,นมข้นหวาน (สิ่งของ),Sweetened condensed milk (in-kind),,
+EF0410A,EF04A,นมผง (ตัวเงิน),Milk powder (cash),,
+EF0410BC,EF04BC,นมผง (สิ่งของ),Milk powder (in-kind),,
+EF0411A,EF04A,ครีมเทียม (ตัวเงิน),Non - diary cream (cash),,
+EF0411BC,EF04BC,ครีมเทียม (สิ่งของ),Non - diary cream (in-kind),,
+EF0412A,EF04A,เครื่องดื่ม/ผลิตภัณฑ์อื่น ๆ ที่ทำจากนม (ระบุ) (ตัวเงิน),Other products made from milk (specify) (cash),,
+EF0412BC,EF04BC,เครื่องดื่ม/ผลิตภัณฑ์อื่น ๆ ที่ทำจากนม (ระบุ) (สิ่งของ),Other products made from milk (specify) (in-kind),,
+EF05A,EF_5,5. น้ำมัน และ ไขมัน (ตัวเงิน),5. Oil and Fat (cash),,
+EF05BC,EF_5,5. น้ำมัน และ ไขมัน (สิ่งของ),5. Oil and Fat (in-kind),,
+EF0501A,EF05A,น้ำมันพืช (ตัวเงิน),Vegetable oil (cash),,
+EF0501BC,EF05BC,น้ำมันพืช (สิ่งของ),Vegetable oil (in-kind),,
+EF0502A,EF05A,น้ำมันสัตว์ (ตัวเงิน),Lard oil (cash),,
+EF0502BC,EF05BC,น้ำมันสัตว์ (สิ่งของ),Lard oil (in-kind),,
+EF0503A,EF05A,กะทิสำเร็จรูป (กล่อง/ขวด) (ตัวเงิน),Coconut milk (box/bottle) (cash),,
+EF0503BC,EF05BC,กะทิสำเร็จรูป (กล่อง/ขวด) (สิ่งของ),Coconut milk (box/bottle) (in-kind),,
+EF0504A,EF05A,มะพร้าวขูด/คั้นสด (ตัวเงิน),Scraped / freshly squeezed coconut (cash),,
+EF0504BC,EF05BC,มะพร้าวขูด/คั้นสด (สิ่งของ),Scraped / freshly squeezed coconut (in-kind),,
+EF0505A,EF05A,ไขมันและน้ำมันอื่น ๆ (ระบุ) (ตัวเงิน),Other fats and oils (specify) (cash),,
+EF0505BC,EF05BC,ไขมันและน้ำมันอื่น ๆ (ระบุ) (สิ่งของ),Other fats and oils (specify) (in-kind),,
+EF06A,EF_6,6. ผลไม้ และ ถั่วเปลือกแข็ง (ตัวเงิน),6. Fruits and Nuts (cash),,
+EF06BC,EF_6,6. ผลไม้ และ ถั่วเปลือกแข็ง (สิ่งของ),6. Fruits and Nuts (in-kind),,
+EF0601A,EF06A,กล้วยน้ำว้า (ตัวเงิน),“Namwa” banana (cash),,
+EF0601BC,EF06BC,กล้วยน้ำว้า (สิ่งของ),“Namwa” banana (in-kind),,
+EF0602A,EF06A,กล้วยหอม (ตัวเงิน),Big banana (cash),,
+EF0602BC,EF06BC,กล้วยหอม (สิ่งของ),Big banana (in-kind),,
+EF0603A,EF06A,กล้วยอื่น ๆ (ตัวเงิน),Banana (cash),,
+EF0603BC,EF06BC,กล้วยอื่น ๆ (สิ่งของ),Banana (in-kind),,
+EF0604A,EF06A,ส้มทุกชนิด (ยกเว้นส้มโอ) (ตัวเงิน),All types of orange (except pomelo) (cash),,
+EF0604BC,EF06BC,ส้มทุกชนิด (ยกเว้นส้มโอ) (สิ่งของ),All types of orange (except pomelo) (in-kind),,
+EF0605A,EF06A,มะละกอสุก (ตัวเงิน),Papaya (cash),,
+EF0605BC,EF06BC,มะละกอสุก (สิ่งของ),Papaya (in-kind),,
+EF0606A,EF06A,สับปะรด (ตัวเงิน),Pineapple (cash),,
+EF0606BC,EF06BC,สับปะรด (สิ่งของ),Pineapple (in-kind),,
+EF0607A,EF06A,เงาะ (ตัวเงิน),Rambutan (cash),,
+EF0607BC,EF06BC,เงาะ (สิ่งของ),Rambutan (in-kind),,
+EF0608A,EF06A,มะม่วง (ตัวเงิน),Mango (cash),,
+EF0608BC,EF06BC,มะม่วง (สิ่งของ),Mango (in-kind),,
+EF0609A,EF06A,แตงโม (ตัวเงิน),Watermelon (cash),,
+EF0609BC,EF06BC,แตงโม (สิ่งของ),Watermelon (in-kind),,
+EF0610A,EF06A,ทุเรียน (ตัวเงิน),Durian (cash),,
+EF0610BC,EF06BC,ทุเรียน (สิ่งของ),Durian (in-kind),,
+EF0611A,EF06A,องุ่น (ตัวเงิน),Grape (cash),,
+EF0611BC,EF06BC,องุ่น (สิ่งของ),Grape (in-kind),,
+EF0612A,EF06A,แอปเปิ้ล (ตัวเงิน),Apple (cash),,
+EF0612BC,EF06BC,แอปเปิ้ล (สิ่งของ),Apple (in-kind),,
+EF0613A,EF06A,ฝรั่ง (ตัวเงิน),Guava (cash),,
+EF0613BC,EF06BC,ฝรั่ง (สิ่งของ),Guava (in-kind),,
+EF0614A,EF06A,ชมพู่ (ตัวเงิน),Rose apple (cash),,
+EF0614BC,EF06BC,ชมพู่ (สิ่งของ),Rose apple (in-kind),,
+EF0615A,EF06A,ลำไย (ตัวเงิน),Longan (cash),,
+EF0615BC,EF06BC,ลำไย (สิ่งของ),Longan (in-kind),,
+EF0616A,EF06A,มังคุด (ตัวเงิน),Mangosteen (cash),,
+EF0616BC,EF06BC,มังคุด (สิ่งของ),Mangosteen (in-kind),,
+EF0617A,EF06A,ลองกอง (ตัวเงิน),Lonkong (cash),,
+EF0617BC,EF06BC,ลองกอง (สิ่งของ),Lonkong (in-kind),,
+EF0618A,EF06A,แก้วมังกร (ตัวเงิน),Dragon fruit (cash),,
+EF0618BC,EF06BC,แก้วมังกร (สิ่งของ),Dragon fruit (in-kind),,
+EF0619A,EF06A,มะพร้าวอ่อน/เผา (ตัวเงิน),Young coconut / coconut (cash),,
+EF0619BC,EF06BC,มะพร้าวอ่อน/เผา (สิ่งของ),Young coconut / coconut (in-kind),,
+EF0620A,EF06A,ผลไม้ (สด) อื่น ๆ (ระบุ) (ตัวเงิน),Other (fresh) fruits (specify) (cash),,
+EF0620BC,EF06BC,ผลไม้ (สด) อื่น ๆ (ระบุ) (สิ่งของ),Other (fresh) fruits (specify) (in-kind),,
+EF0621A,EF06A,ผลไม้แช่อิ่ม/ดอง/กวน/ตากแห้ง (ตัวเงิน),Pickled / preserved / jam / dried fruits (cash),,
+EF0621BC,EF06BC,ผลไม้แช่อิ่ม/ดอง/กวน/ตากแห้ง (สิ่งของ),Pickled / preserved / jam / dried fruits (in-kind),,
+EF0622A,EF06A,ผลไม้กระป๋อง (ตัวเงิน),Canned fruits (cash),,
+EF0622BC,EF06BC,ผลไม้กระป๋อง (สิ่งของ),Canned fruits (in-kind),,
+EF0623A,EF06A,ถั่วลิสง (ตัวเงิน),Peanut (cash),,
+EF0623BC,EF06BC,ถั่วลิสง (สิ่งของ),Peanut (in-kind),,
+EF0624A,EF06A,ผลไม้แปรรูปอื่น ๆ (ระบุ) (ตัวเงิน),Other processed fruits (specify) (cash),,
+EF0624BC,EF06BC,ผลไม้แปรรูปอื่น ๆ (ระบุ) (สิ่งของ),Other processed fruits (specify) (in-kind),,
+EF0625A,EF06A,ถั่วอื่น ๆ (ระบุ) (ตัวเงิน),Other nuts (specify) (cash),,
+EF0625BC,EF06BC,ถั่วอื่น ๆ (ระบุ) (สิ่งของ),Other nuts (specify) (in-kind),,
+EF07A,EF_7,7. ผัก (ตัวเงิน),7. Vegetables (cash),,
+EF07BC,EF_7,7. ผัก (สิ่งของ),7. Vegetables (in-kind),,
+EF0701A,EF07A,กะหล่ำปลี (ตัวเงิน),Cabbage (cash),,
+EF0701BC,EF07BC,กะหล่ำปลี (สิ่งของ),Cabbage (in-kind),,
+EF0702A,EF07A,ดอกกะหล่ำ (ตัวเงิน),Cauliflower (cash),,
+EF0702BC,EF07BC,ดอกกะหล่ำ (สิ่งของ),Cauliflower (in-kind),,
+EF0703A,EF07A,ผักกวางตุ้ง (ตัวเงิน),Choy (cash),,
+EF0703BC,EF07BC,ผักกวางตุ้ง (สิ่งของ),Choy (in-kind),,
+EF0704A,EF07A,ผักกะเฉด (ตัวเงิน),Mimosa (cash),,
+EF0704BC,EF07BC,ผักกะเฉด (สิ่งของ),Mimosa (in-kind),,
+EF0705A,EF07A,แตงกวา (ตัวเงิน),Cucumber (cash),,
+EF0705BC,EF07BC,แตงกวา (สิ่งของ),Cucumber (in-kind),,
+EF0706A,EF07A,ผักกาดขาว  ผักกาดเขียว (ตัวเงิน),"Chinese cabbage, mustard green (cash)",,
+EF0706BC,EF07BC,ผักกาดขาว  ผักกาดเขียว (สิ่งของ),"Chinese cabbage, mustard green (in-kind)",,
+EF0707A,EF07A,ผักกาดหอม (ตัวเงิน),Lettuce (cash),,
+EF0707BC,EF07BC,ผักกาดหอม (สิ่งของ),Lettuce (in-kind),,
+EF0708A,EF07A,ผักคะน้า (ตัวเงิน),Chinese kale (cash),,
+EF0708BC,EF07BC,ผักคะน้า (สิ่งของ),Chinese kale (in-kind),,
+EF0709A,EF07A,เห็ดสดต่าง ๆ (ตัวเงิน),Mushroom (cash),,
+EF0709BC,EF07BC,เห็ดสดต่าง ๆ (สิ่งของ),Mushroom (in-kind),,
+EF0710A,EF07A,ผักบุ้ง (ตัวเงิน),Swamp morning glory (cash),,
+EF0710BC,EF07BC,ผักบุ้ง (สิ่งของ),Swamp morning glory (in-kind),,
+EF0711A,EF07A,ผักชี (ตัวเงิน),Coriander (cash),,
+EF0711BC,EF07BC,ผักชี (สิ่งของ),Coriander (in-kind),,
+EF0712A,EF07A,มะเขือเทศ (ตัวเงิน),Tomato (cash),,
+EF0712BC,EF07BC,มะเขือเทศ (สิ่งของ),Tomato (in-kind),,
+EF0713A,EF07A,มะเขือเปราะ/มะเขือยาว (ตัวเงิน),Thai eggplant / Eggplant (cash),,
+EF0713BC,EF07BC,มะเขือเปราะ/มะเขือยาว (สิ่งของ),Thai eggplant / Eggplant (in-kind),,
+EF0714A,EF07A,ถั่วฝักยาว (ตัวเงิน),String bean (cash),,
+EF0714BC,EF07BC,ถั่วฝักยาว (สิ่งของ),String bean (in-kind),,
+EF0715A,EF07A,บวบ (ตัวเงิน),Angled loofah (cash),,
+EF0715BC,EF07BC,บวบ (สิ่งของ),Angled loofah (in-kind),,
+EF0716A,EF07A,มะละกอดิบ (ตัวเงิน),Raw papaya (cash),,
+EF0716BC,EF07BC,มะละกอดิบ (สิ่งของ),Raw papaya (in-kind),,
+EF0717A,EF07A,ฟักเขียว (ตัวเงิน),Wax gourd (cash),,
+EF0717BC,EF07BC,ฟักเขียว (สิ่งของ),Wax gourd (in-kind),,
+EF0718A,EF07A,ฟักทอง (ตัวเงิน),Pumpkin (cash),,
+EF0718BC,EF07BC,ฟักทอง (สิ่งของ),Pumpkin (in-kind),,
+EF0719A,EF07A,มะนาว (ตัวเงิน),Lime (cash),,
+EF0719BC,EF07BC,มะนาว (สิ่งของ),Lime (in-kind),,
+EF0720A,EF07A,พริกสด (ตัวเงิน),Chili (cash),,
+EF0720BC,EF07BC,พริกสด (สิ่งของ),Chili (in-kind),,
+EF0721A,EF07A,ขึ้นฉ่าย (ตัวเงิน),Celery (cash),,
+EF0721BC,EF07BC,ขึ้นฉ่าย (สิ่งของ),Celery (in-kind),,
+EF0722A,EF07A,ต้นหอม (ตัวเงิน),Spring onion (cash),,
+EF0722BC,EF07BC,ต้นหอม (สิ่งของ),Spring onion (in-kind),,
+EF0723A,EF07A,ถั่วลันเตา (ตัวเงิน),Green pea (cash),,
+EF0723BC,EF07BC,ถั่วลันเตา (สิ่งของ),Green pea (in-kind),,
+EF0724A,EF07A,หัวผักกาด (หัวไชเท้า) (ตัวเงิน),Turnip (Radish) (cash),,
+EF0724BC,EF07BC,หัวผักกาด (หัวไชเท้า) (สิ่งของ),Turnip (Radish) (in-kind),,
+EF0725A,EF07A,แครอท (ตัวเงิน),Carrot (cash),,
+EF0725BC,EF07BC,แครอท (สิ่งของ),Carrot (in-kind),,
+EF0726A,EF07A,ถั่วงอก (ตัวเงิน),Beansprout (cash),,
+EF0726BC,EF07BC,ถั่วงอก (สิ่งของ),Beansprout (in-kind),,
+EF0727A,EF07A,ขิง ข่า ตะไคร้ ใบมะกรูด (ตัวเงิน),"Ginger, galangal, lemongrass, (cash)",,
+EF0727BC,EF07BC,ขิง ข่า ตะไคร้ ใบมะกรูด (สิ่งของ),"Ginger, galangal, lemongrass, (in-kind)",,
+EF0728A,EF07A,ใบกะเพรา/โหระพา (ตัวเงิน),Holy basil / Basil (cash),,
+EF0728BC,EF07BC,ใบกะเพรา/โหระพา (สิ่งของ),Holy basil / Basil (in-kind),,
+EF0729A,EF07A,ตำลึง (ตัวเงิน),Ivy gourd (cash),,
+EF0729BC,EF07BC,ตำลึง (สิ่งของ),Ivy gourd (in-kind),,
+EF0730A,EF07A,มะระจีน (ตัวเงิน),Chinese gourd (cash),,
+EF0730BC,EF07BC,มะระจีน (สิ่งของ),Chinese gourd (in-kind),,
+EF0731A,EF07A,ข้าวโพดหวาน/ข้าวโพดรับประทาน (ตัวเงิน),Sweet corn (cash),,
+EF0731BC,EF07BC,ข้าวโพดหวาน/ข้าวโพดรับประทาน (สิ่งของ),Sweet corn (in-kind),,
+EF0732A,EF07A,ชะอม (ตัวเงิน),Acacia pennata (cash),,
+EF0732BC,EF07BC,ชะอม (สิ่งของ),Acacia pennata (in-kind),,
+EF0733A,EF07A,ผัก (สด) อื่น ๆ (ระบุ) (ตัวเงิน),Other fresh vegetables (specify) (cash),,
+EF0733BC,EF07BC,ผัก (สด) อื่น ๆ (ระบุ) (สิ่งของ),Other fresh vegetables (specify) (in-kind),,
+EF0734A,EF07A,หัวหอมแดง (ตัวเงิน),Dried onion / red onion / shallot (cash),,
+EF0734BC,EF07BC,หัวหอมแดง (สิ่งของ),Dried onion / red onion / shallot (in-kind),,
+EF0735A,EF07A,กระเทียม (ตัวเงิน),Garlic (cash),,
+EF0735BC,EF07BC,กระเทียม (สิ่งของ),Garlic (in-kind),,
+EF0736A,EF07A,พริกแห้ง (ตัวเงิน),Dried chili (cash),,
+EF0736BC,EF07BC,พริกแห้ง (สิ่งของ),Dried chili (in-kind),,
+EF0737A,EF07A,หน่อไม้ต้ม (ตัวเงิน),Boiled bamboo shoot (cash),,
+EF0737BC,EF07BC,หน่อไม้ต้ม (สิ่งของ),Boiled bamboo shoot (in-kind),,
+EF0738A,EF07A,ผักดองสำเร็จรูปพร้อมรับประทาน (บรรจุกระป๋อง/ (ตัวเงิน),Ready-to-eat pickles (canned/sachet/bag (cash),,
+EF0738BC,EF07BC,ผักดองสำเร็จรูปพร้อมรับประทาน (บรรจุกระป๋อง/ (สิ่งของ),Ready-to-eat pickles (canned/sachet/bag (in-kind),,
+EF0739A,EF07A,เห็ดตากแห้ง (เช่น เห็ดหอม เห็ดหูหนู) (ตัวเงิน),Dried  mushrooms (cash),,
+EF0739BC,EF07BC,เห็ดตากแห้ง (เช่น เห็ดหอม เห็ดหูหนู) (สิ่งของ),Dried  mushrooms (in-kind),,
+EF0740A,EF07A,ผักกาดดอง (ตัวเงิน),Pickled  turnips (cash),,
+EF0740,EF07A,(ตัวเงิน),(cash),,
+EF0741A,EF07A,ผัก (ตากแห้ง / ดอง / ทำเค็ม) อื่น ๆ (ระบุ) (ตัวเงิน),Other preserved vegetables (specify) (cash),,
+EF0741BC,EF07BC,ผัก (ตากแห้ง / ดอง / ทำเค็ม) อื่น ๆ (ระบุ) (สิ่งของ),Other preserved vegetables (specify) (in-kind),,
+EF08A,EF_8,8. น้ำตาล และ ขนมหวาน (ตัวเงิน),8. Sugar and Sweets (cash),,
+EF08BC,EF_8,8. น้ำตาล และ ขนมหวาน (สิ่งของ),8. Sugar and Sweets (in-kind),,
+EF0801A,EF08A,ลูกอม / ลูกกวาด (ตัวเงิน),Candy (cash),,
+EF0801BC,EF08BC,ลูกอม / ลูกกวาด (สิ่งของ),Candy (in-kind),,
+EF0802A,EF08A,ไอศกรีม (ตัวเงิน),Ice - cream (cash),,
+EF0802BC,EF08BC,ไอศกรีม (สิ่งของ),Ice - cream (in-kind),,
+EF0803A,EF08A,ขนมหวานต่าง ๆ (ตัวเงิน),Dessert (cash),,
+EF0803BC,EF08BC,ขนมหวานต่าง ๆ (สิ่งของ),Dessert (in-kind),,
+EF0804A,EF08A,น้ำตาลทรายขาว (ขัดสี/ไม่ขัดสี) (ตัวเงิน),White sugar (Refined/Unrefined) (cash),,
+EF0804BC,EF08BC,น้ำตาลทรายขาว (ขัดสี/ไม่ขัดสี) (สิ่งของ),White sugar (Refined/Unrefined) (in-kind),,
+EF0805A,EF08A,น้ำตาลมะพร้าว/น้ำตาลโตนด (น้ำตาลปีบ/ปึก/แว่น) (ตัวเงิน),Coconut sugar / Jaggery (cash),,
+EF0805BC,EF08BC,น้ำตาลมะพร้าว/น้ำตาลโตนด (น้ำตาลปีบ/ปึก/แว่น) (สิ่งของ),Coconut sugar / Jaggery (in-kind),,
+EF0806A,EF08A,อื่น ๆ เช่น น้ำตาลทรายแดง (ระบุ) (ตัวเงิน),Others eg. brown sugar (specify) (cash),,
+EF0806BC,EF08BC,อื่น ๆ เช่น น้ำตาลทรายแดง (ระบุ) (สิ่งของ),Others eg. brown sugar (specify) (in-kind),,
+EF09A,EF_9,9. เครื่องปรุงรส และ เครื่องเทศ (ตัวเงิน),9. Spices and Condiments (cash),,
+EF09BC,EF_9,9. เครื่องปรุงรส และ เครื่องเทศ (สิ่งของ),9. Spices and Condiments (in-kind),,
+EF0901A,EF09A,น้ำจิ้มสำเร็จรูป (ไก่ สุกี้) (ตัวเงิน),Instant Dipping Sauce (cash),,
+EF0901BC,EF09BC,น้ำจิ้มสำเร็จรูป (ไก่ สุกี้) (สิ่งของ),Instant Dipping Sauce (in-kind),,
+EF0902A,EF09A,ซอสปรุงรส (เช่น ซอสแม็กกี้ ซอสทาคูมิ) (ตัวเงิน),Seasoning sauce (cash),,
+EF0902BC,EF09BC,ซอสปรุงรส (เช่น ซอสแม็กกี้ ซอสทาคูมิ) (สิ่งของ),Seasoning sauce (in-kind),,
+EF0903A,EF09A,เกลือ (ตัวเงิน),Salt (cash),,
+EF0903BC,EF09BC,เกลือ (สิ่งของ),Salt (in-kind),,
+EF0904A,EF09A,น้ำปลา (ตัวเงิน),Fish sauce (cash),,
+EF0904BC,EF09BC,น้ำปลา (สิ่งของ),Fish sauce (in-kind),,
+EF0905A,EF09A,น้ำปลาร้า (ปรุงสำเร็จ) (ตัวเงิน),Fermented fish sauce (cash),,
+EF0905BC,EF09BC,น้ำปลาร้า (ปรุงสำเร็จ) (สิ่งของ),Fermented fish sauce (in-kind),,
+EF0906A,EF09A,ซีอิ๊วขาว (ตัวเงิน),Soy sauce (cash),,
+EF0906BC,EF09BC,ซีอิ๊วขาว (สิ่งของ),Soy sauce (in-kind),,
+EF0907A,EF09A,น้ำมันหอย/ ซอสหอยนางรม (ตัวเงิน),Oyster sauce (cash),,
+EF0907BC,EF09BC,น้ำมันหอย/ ซอสหอยนางรม (สิ่งของ),Oyster sauce (in-kind),,
+EF0908A,EF09A,ซอสพริก (ตัวเงิน),Chili sauce (cash),,
+EF0908BC,EF09BC,ซอสพริก (สิ่งของ),Chili sauce (in-kind),,
+EF0909A,EF09A,ซอสมะเขือเทศ (ตัวเงิน),Tomoto sauce (cash),,
+EF0909BC,EF09BC,ซอสมะเขือเทศ (สิ่งของ),Tomoto sauce (in-kind),,
+EF0910A,EF09A,กะปิ (ตัวเงิน),Shrimp paste (cash),,
+EF0910BC,EF09BC,กะปิ (สิ่งของ),Shrimp paste (in-kind),,
+EF0911A,EF09A,มะขามเปียก (ตัวเงิน),Tamarind (cash),,
+EF0911BC,EF09BC,มะขามเปียก (สิ่งของ),Tamarind (in-kind),,
+EF0912A,EF09A,เครื่องปรุงรส (ซุปก้อนทุกยี่ห้อ / ผงสำเร็จรูป) (ตัวเงิน),Seasonings (Soup cubes / Instant powder) (cash),,
+EF0912BC,EF09BC,เครื่องปรุงรส (ซุปก้อนทุกยี่ห้อ / ผงสำเร็จรูป) (สิ่งของ),Seasonings (Soup cubes / Instant powder) (in-kind),,
+EF0913A,EF09A,ผงชูรส (ตัวเงิน),Monosodium glutamate (cash),,
+EF0913BC,EF09BC,ผงชูรส (สิ่งของ),Monosodium glutamate (in-kind),,
+EF0914A,EF09A,พริกแกง (ตัวเงิน),Spicy paste (cash),,
+EF0914BC,EF09BC,พริกแกง (สิ่งของ),Spicy paste (in-kind),,
+EF0915A,EF09A,เครื่องปรุงรสและเครื่องเทศอื่น ๆ (ระบุ) (ตัวเงิน),Other seasonings and spices (specify) (cash),,
+EF0915BC,EF09BC,เครื่องปรุงรสและเครื่องเทศอื่น ๆ (ระบุ) (สิ่งของ),Other seasonings and spices (specify) (in-kind),,
+EF10A,EF_10,ผลิตภัณฑ์กึ่งสำเร็จรูป (ตัวเงิน),Semi - prepared products (cash),,
+EF10BC,EF_10,ผลิตภัณฑ์กึ่งสำเร็จรูป (สิ่งของ),Semi - prepared products (in-kind),,
+EF1001A,EF10A,กาแฟเม็ด กาแฟผง กาแฟแคปซูล (ตัวเงิน),Coffee beans / powder / capsules (cash),,
+EF1001BC,EF10BC,กาแฟเม็ด กาแฟผง กาแฟแคปซูล (สิ่งของ),Coffee beans / powder / capsules (in-kind),,
+EF1002A,EF10A,ชาผงสำเร็จรูป / ใบชา (ตัวเงิน),Instant tea powder / Tea leaves (cash),,
+EF1002BC,EF10BC,ชาผงสำเร็จรูป / ใบชา (สิ่งของ),Instant tea powder / Tea leaves (in-kind),,
+EF1003A,EF10A,ไมโล โอวัลติน โกโก้ / ช๊อกโกแลตผง (ตัวเงิน),"Milo, Ovaltine, Cocoa / Chocolate Powder (cash)",,
+EF1003BC,EF10BC,ไมโล โอวัลติน โกโก้ / ช๊อกโกแลตผง (สิ่งของ),"Milo, Ovaltine, Cocoa / Chocolate Powder (in-kind)",,
+EF1004A,EF10A,น้ำหวานชนิดเข้มข้น (เช่น เฮลบลูบอย ติ่งฟง ฯลฯ) (ตัวเงิน),Concentrated squash (cash),,
+EF1004BC,EF10BC,น้ำหวานชนิดเข้มข้น (เช่น เฮลบลูบอย ติ่งฟง ฯลฯ) (สิ่งของ),Concentrated squash (in-kind),,
+EF1005A,EF10A,ผลิตภัณฑ์กึ่งสำเร็จรูปอื่น ๆ (ระบุ) (ตัวเงิน),Other semi-finished products (specify) (cash),,
+EF1005BC,EF10BC,ผลิตภัณฑ์กึ่งสำเร็จรูปอื่น ๆ (ระบุ) (สิ่งของ),Other semi-finished products (specify) (in-kind),,
+EF11A,EF_10,ผลิตภัณฑ์สำเร็จรูป (ตัวเงิน),Prepared products (cash),,
+EF11BC,EF_10,ผลิตภัณฑ์สำเร็จรูป (สิ่งของ),Prepared products (in-kind),,
+EF1101A,EF11A,โซดา (ตัวเงิน),Soda (cash),,
+EF1101BC,EF11BC,โซดา (สิ่งของ),Soda (in-kind),,
+EF1102A,EF11A,น้ำอัดลม (ตัวเงิน),Soft drink (cash),,
+EF1102BC,EF11BC,น้ำอัดลม (สิ่งของ),Soft drink (in-kind),,
+EF1103A,EF11A,น้ำผัก / ผลไม้พร้อมดื่ม (กล่อง/ขวด) (ตัวเงิน),Ready-to-drink vegetable / fruit juices (cash),,
+EF1103BC,EF11BC,น้ำผัก / ผลไม้พร้อมดื่ม (กล่อง/ขวด) (สิ่งของ),Ready-to-drink vegetable / fruit juices (in-kind),,
+EF1104A,EF11A,น้ำผัก / ผลไม้ (คั้น/ปั่นสด) (ตัวเงิน),Vegetable / fruit juices (cash),,
+EF1104BC,EF11BC,น้ำผัก / ผลไม้ (คั้น/ปั่นสด) (สิ่งของ),Vegetable / fruit juices (in-kind),,
+EF1105A,EF11A,น้ำดื่มบริสุทธิ์ (บรรจุขวด) (ตัวเงิน),Drinking water (bottled) (cash),,
+EF1105BC,EF11BC,น้ำดื่มบริสุทธิ์ (บรรจุขวด) (สิ่งของ),Drinking water (bottled) (in-kind),,
+EF1106A,EF11A,น้ำแข็ง (ยูนิตถุง) (ตัวเงิน),Ice (cash),,
+EF1106BC,EF11BC,น้ำแข็ง (ยูนิตถุง) (สิ่งของ),Ice (in-kind),,
+EF1107A,EF11A,ชา/กาแฟ/น้ำหวาน (ชงสด) (ตัวเงิน),Tea / coffee / sweet water (freshly brewed) (cash),,
+EF1107BC,EF11BC,ชา/กาแฟ/น้ำหวาน (ชงสด) (สิ่งของ),Tea / coffee / sweet water (freshly brewed) (in-kind),,
+EF1108A,EF11A,กาแฟสำเร็จรูปพร้อมดื่ม (กระป๋อง/ขวด) (ตัวเงิน),Ready-to-drink coffee. (can/bottle) (cash),,
+EF1108BC,EF11BC,กาแฟสำเร็จรูปพร้อมดื่ม (กระป๋อง/ขวด) (สิ่งของ),Ready-to-drink coffee. (can/bottle) (in-kind),,
+EF1109A,EF11A,ชาสำเร็จรูปพร้อมดื่ม (กระป๋อง/ขวด) (ตัวเงิน),Ready-to-drink tea (can/bottle) (cash),,
+EF1109BC,EF11BC,ชาสำเร็จรูปพร้อมดื่ม (กระป๋อง/ขวด) (สิ่งของ),Ready-to-drink tea (can/bottle) (in-kind),,
+EF1110A,EF11A,เครื่องดื่มชูกำลัง / บำรุงร่างกาย (ตัวเงิน),Energy drink / body nourishment (cash),,
+EF1110BC,EF11BC,เครื่องดื่มชูกำลัง / บำรุงร่างกาย (สิ่งของ),Energy drink / body nourishment (in-kind),,
+EF1111A,EF11A,อาหารเสริมบำรุงสุขภาพ เช่น ซุปไก่สกัด  รังนก (ตัวเงิน),Food supplements to nourish health (cash),,
+EF1111BC,EF11BC,อาหารเสริมบำรุงสุขภาพ เช่น ซุปไก่สกัด  รังนก (สิ่งของ),Food supplements to nourish health (in-kind),,
+EF1112A,EF11A,ผลิตภัณฑ์สำเร็จรูปอื่น ๆ (ระบุ) (ตัวเงิน),Other finished products (specify) (cash),,
+EF1112BC,EF11BC,ผลิตภัณฑ์สำเร็จรูปอื่น ๆ (ระบุ) (สิ่งของ),Other finished products (specify) (in-kind),,
+EF12A,EF_11,11. อาหารสำเร็จรูปที่ซื้อมา (บริโภคที่บ้าน) (ตัวเงิน),11. Prepared food  (consumed at home) (cash),,
+EF12BC,EF_11,11. อาหารสำเร็จรูปที่ซื้อมา (บริโภคที่บ้าน) (สิ่งของ),11. Prepared food  (consumed at home) (in-kind),,
+EF1201A,EF12A,ข้าวราดแกง (ตัวเงิน),Rice and curry (cash),,
+EF1201BC,EF12BC,ข้าวราดแกง (สิ่งของ),Rice and curry (in-kind),,
+EF1202A,EF12A,ข้าวผัด (ตัวเงิน),Fried rice (cash),,
+EF1202BC,EF12BC,ข้าวผัด (สิ่งของ),Fried rice (in-kind),,
+EF1203A,EF12A,ผัดซีอิ๊ว/ราดหน้า (ตัวเงิน),Fried thin noodles with soy sauce / (cash),,
+EF1203BC,EF12BC,ผัดซีอิ๊ว/ราดหน้า (สิ่งของ),Fried thin noodles with soy sauce / (in-kind),,
+EF1204A,EF12A,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (ตัวเงิน),Red pork rice / crispy pork / rice steamed (cash),,
+EF1204BC,EF12BC,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (สิ่งของ),Red pork rice / crispy pork / rice steamed (in-kind),,
+EF1205A,EF12A,ส้มตำ (ตัวเงิน),Green papaya salad (cash),,
+EF1205BC,EF12BC,ส้มตำ (สิ่งของ),Green papaya salad (in-kind),,
+EF1206A,EF12A,ยำประเภทต่าง ๆ (ตัวเงิน),Various spicy salad (cash),,
+EF1206BC,EF12BC,ยำประเภทต่าง ๆ (สิ่งของ),Various spicy salad (in-kind),,
+EF1207A,EF12A,กับข้าวสำเร็จรูป (แกงถุง) (ตัวเงิน),Curry bag (cash),,
+EF1207BC,EF12BC,กับข้าวสำเร็จรูป (แกงถุง) (สิ่งของ),Curry bag (in-kind),,
+EF1208A,EF12A,ก๋วยเตี๋ยว / บะหมี่ (ตัวเงิน),Noodles (cash),,
+EF1208BC,EF12BC,ก๋วยเตี๋ยว / บะหมี่ (สิ่งของ),Noodles (in-kind),,
+EF1209A,EF12A,โจ๊ก/ข้าวต้มทรงเครื่อง (ตัวเงิน),Congee / Boiled Rice (cash),,
+EF1209BC,EF12BC,โจ๊ก/ข้าวต้มทรงเครื่อง (สิ่งของ),Congee / Boiled Rice (in-kind),,
+EF1210A,EF12A,ต้มเลือดหมู (ตัวเงิน),Blood tofu soup (cash),,
+EF1210BC,EF12BC,ต้มเลือดหมู (สิ่งของ),Blood tofu soup (in-kind),,
+EF1211A,EF12A,ข้าวราดผัดกะเพรา (ตัวเงิน),Fried basil on rice (cash),,
+EF1211BC,EF12BC,ข้าวราดผัดกะเพรา (สิ่งของ),Fried basil on rice (in-kind),,
+EF1212A,EF12A,ข้าวเปล่า (ตัวเงิน),Streamed rice (cash),,
+EF1212BC,EF12BC,ข้าวเปล่า (สิ่งของ),Streamed rice (in-kind),,
+EF1213A,EF12A,ต้มยำ (ตัวเงิน),Spicy soup (cash),,
+EF1213BC,EF12BC,ต้มยำ (สิ่งของ),Spicy soup (in-kind),,
+EF1214A,EF12A,ผัดผัก (ตัวเงิน),Stir-fried vegetables (cash),,
+EF1214BC,EF12BC,ผัดผัก (สิ่งของ),Stir-fried vegetables (in-kind),,
+EF1215A,EF12A,ชุดสุกี้พร้อมทาน (ตัวเงิน),Ready-to-eat Suki Set (cash),,
+EF1215BC,EF12BC,ชุดสุกี้พร้อมทาน (สิ่งของ),Ready-to-eat Suki Set (in-kind),,
+EF1216A,EF12A,อาหารประเภทฟาสต์ฟู้ด (ตัวเงิน),Fast food (cash),,
+EF1216BC,EF12BC,อาหารประเภทฟาสต์ฟู้ด (สิ่งของ),Fast food (in-kind),,
+EF1217A,EF12A,ไก่ย่าง/ไก่ทอด (ตัวเงิน),Grilled Chicken / Fried Chicken (cash),,
+EF1217BC,EF12BC,ไก่ย่าง/ไก่ทอด (สิ่งของ),Grilled Chicken / Fried Chicken (in-kind),,
+EF1218A,EF12A,เป็ดพะโล้/เป็ดย่าง (ตัวเงิน),Stewed Duck / Roasted Duck (cash),,
+EF1218BC,EF12BC,เป็ดพะโล้/เป็ดย่าง (สิ่งของ),Stewed Duck / Roasted Duck (in-kind),,
+EF1219A,EF12A,หมูย่าง/หมูทอด (ตัวเงิน),Grilled pork / fried pork (cash),,
+EF1219BC,EF12BC,หมูย่าง/หมูทอด (สิ่งของ),Grilled pork / fried pork (in-kind),,
+EF1220A,EF12A,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (ตัวเงิน),Fried fish / grilled fish / chili topped fish (cash),,
+EF1220BC,EF12BC,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (สิ่งของ),Fried fish / grilled fish / chili topped fish (in-kind),,
+EF1221A,EF12A,กุ้งเผา (ตัวเงิน),Grilled shrimp (cash),,
+EF1221BC,EF12BC,กุ้งเผา (สิ่งของ),Grilled shrimp (in-kind),,
+EF1222A,EF12A,ปูนึ่ง (ตัวเงิน),Steamed crab (cash),,
+EF1222BC,EF12BC,ปูนึ่ง (สิ่งของ),Steamed crab (in-kind),,
+EF1223A,EF12A,อาหารสำเร็จรูปที่นำมาอบด้วยความร้อน (ตัวเงิน),Ready-to-eat foods that are baked (cash),,
+EF1223BC,EF12BC,อาหารสำเร็จรูปที่นำมาอบด้วยความร้อน (สิ่งของ),Ready-to-eat foods that are baked (in-kind),,
+EF1224A,EF12A,อาหารกึ่งสำเร็จรูป (เช่น บะหมี่/มาม่า/ (ตัวเงิน),Instant food (e.g. instant noodles / (cash),,
+EF1224BC,EF12BC,อาหารกึ่งสำเร็จรูป (เช่น บะหมี่/มาม่า/ (สิ่งของ),Instant food (e.g. instant noodles / (in-kind),,
+EF1225A,EF12A,อื่น ๆ (ระบุ) (รวม อาหารปิ่นโต/อาหารว่าง) (ตัวเงิน),Others (specify) (including lunchbox / snacks) (cash),,
+EF1225BC,EF12BC,อื่น ๆ (ระบุ) (รวม อาหารปิ่นโต/อาหารว่าง) (สิ่งของ),Others (specify) (including lunchbox / snacks) (in-kind),,
+EF13A,EF_12,12. อาหารและเครื่องดื่มที่ไม่มีแอลกอฮอล์ (บริโภคนอกบ้าน) (ตัวเงิน),12. Food and Non-alcoholic beverages (Consumed away from home) (cash),,
+EF13BC,EF_12,12. อาหารและเครื่องดื่มที่ไม่มีแอลกอฮอล์ (บริโภคนอกบ้าน) (สิ่งของ),12. Food and Non-alcoholic beverages (Consumed away from home) (in-kind),,
+EF13_1A,EF13A,อาหารเช้า (ตัวเงิน),Breakfast (cash),,
+EF13_1BC,EF13BC,อาหารเช้า (สิ่งของ),Breakfast (in-kind),,
+EF13_101A,EF13_1A,ข้าวราดแกง (ตัวเงิน),Breakfast: Rice and curry (cash),,
+EF13_101BC,EF13_1BC,ข้าวราดแกง (สิ่งของ),Breakfast: Rice and curry (in-kind),,
+EF13_102A,EF13_1A,ข้าวผัด (ตัวเงิน),Breakfast: Fried rice (cash),,
+EF13_102BC,EF13_1BC,ข้าวผัด (สิ่งของ),Breakfast: Fried rice (in-kind),Breakfast: ,Breakfast: Breakfast: Fried rice (in-kind)
+EF13_103A,EF13_1A,ผัดซีอิ๊ว/ราดหน้า (ตัวเงิน),Breakfast: Fried stir noodles with soy sauce / (cash),,Breakfast: Breakfast: Fried stir noodles with soy sauce / (cash)
+EF13_103BC,EF13_1BC,ผัดซีอิ๊ว/ราดหน้า (สิ่งของ),Breakfast: Fried stir noodles with soy sauce / (in-kind),,Breakfast: Breakfast: Fried stir noodles with soy sauce / (in-kind)
+EF13_104A,EF13_1A,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (ตัวเงิน),Breakfast: Red pork rice / crispy pork / rice steamed (cash),,Breakfast: Breakfast: Red pork rice / crispy pork / rice steamed (cash)
+EF13_104BC,EF13_1BC,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (สิ่งของ),Breakfast: Red pork rice / crispy pork / rice steamed (in-kind),,Breakfast: Breakfast: Red pork rice / crispy pork / rice steamed (in-kind)
+EF13_105A,EF13_1A,กับข้าวสำเร็จรูป (แกงถุง) (ตัวเงิน),Breakfast: Curry bag (cash),,Breakfast: Breakfast: Curry bag (cash)
+EF13_105BC,EF13_1BC,กับข้าวสำเร็จรูป (แกงถุง) (สิ่งของ),Breakfast: Curry bag (in-kind),,Breakfast: Breakfast: Curry bag (in-kind)
+EF13_106A,EF13_1A,ก๋วยเตี๋ยว/บะหมี่ (ตัวเงิน),Breakfast: Noodles (cash),,Breakfast: Breakfast: Noodles (cash)
+EF13_106BC,EF13_1BC,ก๋วยเตี๋ยว/บะหมี่ (สิ่งของ),Breakfast: Noodles (in-kind),,Breakfast: Breakfast: Noodles (in-kind)
+EF13_107A,EF13_1A,โจ๊ก/ข้าวต้มทรงเครื่อง (ตัวเงิน),Breakfast: Congee / Boiled Rice (cash),,Breakfast: Breakfast: Congee / Boiled Rice (cash)
+EF13_107BC,EF13_1BC,โจ๊ก/ข้าวต้มทรงเครื่อง (สิ่งของ),Breakfast: Congee / Boiled Rice (in-kind),,Breakfast: Breakfast: Congee / Boiled Rice (in-kind)
+EF13_108A,EF13_1A,ต้มเลือดหมู (ตัวเงิน),Breakfast: Blood tofu soup (cash),,Breakfast: Breakfast: Blood tofu soup (cash)
+EF13_108BC,EF13_1BC,ต้มเลือดหมู (สิ่งของ),Breakfast: Blood tofu soup (in-kind),,Breakfast: Breakfast: Blood tofu soup (in-kind)
+EF13_109A,EF13_1A,ข้าวราดผัดกะเพรา (ตัวเงิน),Breakfast: Fried basil on rice (cash),,Breakfast: Breakfast: Fried basil on rice (cash)
+EF13_109BC,EF13_1BC,ข้าวราดผัดกะเพรา (สิ่งของ),Breakfast: Fried basil on rice (in-kind),,Breakfast: Breakfast: Fried basil on rice (in-kind)
+EF13_110A,EF13_1A,ข้าวเปล่า (ตัวเงิน),Breakfast: Streamed rice (cash),,Breakfast: Breakfast: Streamed rice (cash)
+EF13_110BC,EF13_1BC,ข้าวเปล่า (สิ่งของ),Breakfast: Streamed rice (in-kind),,Breakfast: Breakfast: Streamed rice (in-kind)
+EF13_111A,EF13_1A,ต้มยำ (ตัวเงิน),Breakfast: Spicy soup (cash),,Breakfast: Breakfast: Spicy soup (cash)
+EF13_111BC,EF13_1BC,ต้มยำ (สิ่งของ),Breakfast: Spicy soup (in-kind),,Breakfast: Breakfast: Spicy soup (in-kind)
+EF13_112A,EF13_1A,ผัดผัก (ตัวเงิน),Breakfast: Stir-fried vegetables (cash),,Breakfast: Breakfast: Stir-fried vegetables (cash)
+EF13_112BC,EF13_1BC,ผัดผัก (สิ่งของ),Breakfast: Stir-fried vegetables (in-kind),,Breakfast: Breakfast: Stir-fried vegetables (in-kind)
+EF13_113A,EF13_1A,ชุดสุกี้พร้อมทาน (ตัวเงิน),Breakfast: Ready-to-eat Suki Set (cash),,Breakfast: Breakfast: Ready-to-eat Suki Set (cash)
+EF13_113BC,EF13_1BC,ชุดสุกี้พร้อมทาน (สิ่งของ),Breakfast: Ready-to-eat Suki Set (in-kind),,Breakfast: Breakfast: Ready-to-eat Suki Set (in-kind)
+EF13_114A,EF13_1A,อาหารประเภทฟาสต์ฟู้ด (ตัวเงิน),Breakfast: Fast food (cash),,Breakfast: Breakfast: Fast food (cash)
+EF13_114BC,EF13_1BC,อาหารประเภทฟาสต์ฟู้ด (สิ่งของ),Breakfast: Fast food (in-kind),,Breakfast: Breakfast: Fast food (in-kind)
+EF13_115A,EF13_1A,ไก่ย่าง/ไก่ทอด (ตัวเงิน),Breakfast: Grilled Chicken / Fried Chicken (cash),,Breakfast: Breakfast: Grilled Chicken / Fried Chicken (cash)
+EF13_115BC,EF13_1BC,ไก่ย่าง/ไก่ทอด (สิ่งของ),Breakfast: Grilled Chicken / Fried Chicken (in-kind),,Breakfast: Breakfast: Grilled Chicken / Fried Chicken (in-kind)
+EF13_116A,EF13_1A,เป็ดพะโล้/เป็ดย่าง (ตัวเงิน),Breakfast: Stewed Duck / Roasted Duck (cash),,Breakfast: Breakfast: Stewed Duck / Roasted Duck (cash)
+EF13_116BC,EF13_1BC,เป็ดพะโล้/เป็ดย่าง (สิ่งของ),Breakfast: Stewed Duck / Roasted Duck (in-kind),,Breakfast: Breakfast: Stewed Duck / Roasted Duck (in-kind)
+EF13_117A,EF13_1A,หมูย่าง/หมูทอด (ตัวเงิน),Breakfast: Grilled pork / fried pork (cash),,Breakfast: Breakfast: Grilled pork / fried pork (cash)
+EF13_117BC,EF13_1BC,หมูย่าง/หมูทอด (สิ่งของ),Breakfast: Grilled pork / fried pork (in-kind),,Breakfast: Breakfast: Grilled pork / fried pork (in-kind)
+EF13_118A,EF13_1A,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (ตัวเงิน),Breakfast: Fried fish / grilled fish / chili topped fish (cash),,Breakfast: Breakfast: Fried fish / grilled fish / chili topped fish (cash)
+EF13_118BC,EF13_1BC,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (สิ่งของ),Breakfast: Fried fish / grilled fish / chili topped fish (in-kind),,Breakfast: Breakfast: Fried fish / grilled fish / chili topped fish (in-kind)
+EF13_119A,EF13_1A,อาหารเช้าอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (ตัวเงิน),Breakfast: Other breakfast (specify) (Including tiffin) (cash),,Breakfast: Breakfast: Other breakfast (specify) (Including tiffin) (cash)
+EF13_119BC,EF13_1BC,อาหารเช้าอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (สิ่งของ),Breakfast: Other breakfast (specify) (Including tiffin) (in-kind),,Breakfast: Breakfast: Other breakfast (specify) (Including tiffin) (in-kind)
+EF13_120A,EF13_1A,เครื่องดื่มที่ไม่มีแอลกอฮอล์ (ตัวเงิน),Breakfast: Non-alcoholic beverages (cash),,Breakfast: Breakfast: Non-alcoholic beverages (cash)
+EF13_120BC,EF13_1BC,เครื่องดื่มที่ไม่มีแอลกอฮอล์ (สิ่งของ),Breakfast: Non-alcoholic beverages (in-kind),,Breakfast: Breakfast: Non-alcoholic beverages (in-kind)
+EF13_2A,EF13A,อาหารกลางวัน (ตัวเงิน),Lunch (cash),,Breakfast: Lunch (cash)
+EF13_2BC,EF13BC,อาหารกลางวัน (สิ่งของ),Lunch (in-kind),,Breakfast: Lunch (in-kind)
+EF13_201A,EF13_2A,ข้าวราดแกง (ตัวเงิน),Lunch: Rice and curry (cash),Lunch: ,Lunch: Lunch: Rice and curry (cash)
+EF13_201BC,EF13_2BC,ข้าวราดแกง (สิ่งของ),Lunch: Rice and curry (in-kind),,Lunch: Lunch: Rice and curry (in-kind)
+EF13_202A,EF13_2A,ข้าวผัด (ตัวเงิน),Lunch: Fried rice (cash),,Lunch: Lunch: Fried rice (cash)
+EF13_202BC,EF13_2BC,ข้าวผัด (สิ่งของ),Lunch: Fried rice (in-kind),,Lunch: Lunch: Fried rice (in-kind)
+EF13_203A,EF13_2A,ผัดซีอิ๊ว/ราดหน้า (ตัวเงิน),Lunch: Fried stir noodles with soy sauce / (cash),,Lunch: Lunch: Fried stir noodles with soy sauce / (cash)
+EF13_203BC,EF13_2BC,ผัดซีอิ๊ว/ราดหน้า (สิ่งของ),Lunch: Fried stir noodles with soy sauce / (in-kind),,Lunch: Lunch: Fried stir noodles with soy sauce / (in-kind)
+EF13_204A,EF13_2A,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (ตัวเงิน),Lunch: Red pork rice / crispy pork / rice steamed (cash),,Lunch: Lunch: Red pork rice / crispy pork / rice steamed (cash)
+EF13_204BC,EF13_2BC,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (สิ่งของ),Lunch: Red pork rice / crispy pork / rice steamed (in-kind),,Lunch: Lunch: Red pork rice / crispy pork / rice steamed (in-kind)
+EF13_205A,EF13_2A,ส้มตำ (ตัวเงิน),Lunch: Green papaya salad (cash),,Lunch: Lunch: Green papaya salad (cash)
+EF13_205BC,EF13_2BC,ส้มตำ (สิ่งของ),Lunch: Green papaya salad (in-kind),,Lunch: Lunch: Green papaya salad (in-kind)
+EF13_206A,EF13_2A,ยำประเภทต่าง ๆ (ตัวเงิน),Lunch: Various spicy salad (cash),,Lunch: Lunch: Various spicy salad (cash)
+EF13_206BC,EF13_2BC,ยำประเภทต่าง ๆ (สิ่งของ),Lunch: Various spicy salad (in-kind),,Lunch: Lunch: Various spicy salad (in-kind)
+EF13_207A,EF13_2A,กับข้าวสำเร็จรูป (แกงถุง) (ตัวเงิน),Lunch: Curry bag (cash),,Lunch: Lunch: Curry bag (cash)
+EF13_207BC,EF13_2BC,กับข้าวสำเร็จรูป (แกงถุง) (สิ่งของ),Lunch: Curry bag (in-kind),,Lunch: Lunch: Curry bag (in-kind)
+EF13_208A,EF13_2A,ก๋วยเตี๋ยว/บะหมี่ (ตัวเงิน),Lunch: Noodles (cash),,Lunch: Lunch: Noodles (cash)
+EF13_208BC,EF13_2BC,ก๋วยเตี๋ยว/บะหมี่ (สิ่งของ),Lunch: Noodles (in-kind),,Lunch: Lunch: Noodles (in-kind)
+EF13_209A,EF13_2A,โจ๊ก/ข้าวต้มทรงเครื่อง (ตัวเงิน),Lunch: Congee / Boiled Rice (cash),,Lunch: Lunch: Congee / Boiled Rice (cash)
+EF13_209BC,EF13_2BC,โจ๊ก/ข้าวต้มทรงเครื่อง (สิ่งของ),Lunch: Congee / Boiled Rice (in-kind),,Lunch: Lunch: Congee / Boiled Rice (in-kind)
+EF13_210A,EF13_2A,ต้มเลือดหมู (ตัวเงิน),Lunch: Blood tofu soup (cash),,Lunch: Lunch: Blood tofu soup (cash)
+EF13_210BC,EF13_2BC,ต้มเลือดหมู (สิ่งของ),Lunch: Blood tofu soup (in-kind),,Lunch: Lunch: Blood tofu soup (in-kind)
+EF13_211A,EF13_2A,ข้าวราดผัดกะเพรา (ตัวเงิน),Lunch: Fried basil on rice (cash),,Lunch: Lunch: Fried basil on rice (cash)
+EF13_211BC,EF13_2BC,ข้าวราดผัดกะเพรา (สิ่งของ),Lunch: Fried basil on rice (in-kind),,Lunch: Lunch: Fried basil on rice (in-kind)
+EF13_212A,EF13_2A,ข้าวเปล่า (ตัวเงิน),Lunch: Streamed rice (cash),,Lunch: Lunch: Streamed rice (cash)
+EF13_212BC,EF13_2BC,ข้าวเปล่า (สิ่งของ),Lunch: Streamed rice (in-kind),,Lunch: Lunch: Streamed rice (in-kind)
+EF13_213A,EF13_2A,ต้มยำ (ตัวเงิน),Lunch: Spicy soup (cash),,Lunch: Lunch: Spicy soup (cash)
+EF13_213BC,EF13_2BC,ต้มยำ (สิ่งของ),Lunch: Spicy soup (in-kind),,Lunch: Lunch: Spicy soup (in-kind)
+EF13_214A,EF13_2A,ผัดผัก (ตัวเงิน),Lunch: Stir-fried vegetables (cash),,Lunch: Lunch: Stir-fried vegetables (cash)
+EF13_214BC,EF13_2BC,ผัดผัก (สิ่งของ),Lunch: Stir-fried vegetables (in-kind),,Lunch: Lunch: Stir-fried vegetables (in-kind)
+EF13_215A,EF13_2A,ชุดสุกี้พร้อมทาน (ตัวเงิน),Lunch: Ready-to-eat Suki Set (cash),,Lunch: Lunch: Ready-to-eat Suki Set (cash)
+EF13_215BC,EF13_2BC,ชุดสุกี้พร้อมทาน (สิ่งของ),Lunch: Ready-to-eat Suki Set (in-kind),,Lunch: Lunch: Ready-to-eat Suki Set (in-kind)
+EF13_216A,EF13_2A,อาหารประเภทฟาสต์ฟู้ด (ตัวเงิน),Lunch: Fast food (cash),,Lunch: Lunch: Fast food (cash)
+EF13_216BC,EF13_2BC,อาหารประเภทฟาสต์ฟู้ด (สิ่งของ),Lunch: Fast food (in-kind),,Lunch: Lunch: Fast food (in-kind)
+EF13_217A,EF13_2A,ไก่ย่าง/ไก่ทอด (ตัวเงิน),Lunch: Grilled Chicken / Fried Chicken (cash),,Lunch: Lunch: Grilled Chicken / Fried Chicken (cash)
+EF13_217BC,EF13_2BC,ไก่ย่าง/ไก่ทอด (สิ่งของ),Lunch: Grilled Chicken / Fried Chicken (in-kind),,Lunch: Lunch: Grilled Chicken / Fried Chicken (in-kind)
+EF13_218A,EF13_2A,เป็ดพะโล้/เป็ดย่าง (ตัวเงิน),Lunch: Stewed Duck / Roasted Duck (cash),,Lunch: Lunch: Stewed Duck / Roasted Duck (cash)
+EF13_218BC,EF13_2BC,เป็ดพะโล้/เป็ดย่าง (สิ่งของ),Lunch: Stewed Duck / Roasted Duck (in-kind),,Lunch: Lunch: Stewed Duck / Roasted Duck (in-kind)
+EF13_219A,EF13_2A,หมูย่าง/หมูทอด (ตัวเงิน),Lunch: Grilled pork / fried pork (cash),,Lunch: Lunch: Grilled pork / fried pork (cash)
+EF13_219BC,EF13_2BC,หมูย่าง/หมูทอด (สิ่งของ),Lunch: Grilled pork / fried pork (in-kind),,Lunch: Lunch: Grilled pork / fried pork (in-kind)
+EF13_220A,EF13_2A,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (ตัวเงิน),Lunch: Fried fish / grilled fish / chili topped fish (cash),,Lunch: Lunch: Fried fish / grilled fish / chili topped fish (cash)
+EF13_220BC,EF13_2BC,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (สิ่งของ),Lunch: Fried fish / grilled fish / chili topped fish (in-kind),,Lunch: Lunch: Fried fish / grilled fish / chili topped fish (in-kind)
+EF13_221A,EF13_2A,กุ้งเผา (ตัวเงิน),Lunch: Grilled shrimp (cash),,Lunch: Lunch: Grilled shrimp (cash)
+EF13_221BC,EF13_2BC,กุ้งเผา (สิ่งของ),Lunch: Grilled shrimp (in-kind),,Lunch: Lunch: Grilled shrimp (in-kind)
+EF13_222A,EF13_2A,ปูนึ่ง (ตัวเงิน),Lunch: Steamed crab (cash),,Lunch: Lunch: Steamed crab (cash)
+EF13_222BC,EF13_2BC,ปูนึ่ง (สิ่งของ),Lunch: Steamed crab (in-kind),,Lunch: Lunch: Steamed crab (in-kind)
+EF13_223A,EF13_2A,อาหารกลางวันอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (ตัวเงิน),Lunch: Other lunch (specify) (Including tiffin) (cash),,Lunch: Lunch: Other lunch (specify) (Including tiffin) (cash)
+EF13_223BC,EF13_2BC,อาหารกลางวันอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (สิ่งของ),Lunch: Other lunch (specify) (Including tiffin) (in-kind),,Lunch: Lunch: Other lunch (specify) (Including tiffin) (in-kind)
+EF13_224A,EF13_2A,เครื่องดื่มที่ไม่มีแอลกอฮอล์ (ตัวเงิน),Lunch: Non-alcoholic beverages (cash),,Lunch: Lunch: Non-alcoholic beverages (cash)
+EF13_224BC,EF13_2BC,เครื่องดื่มที่ไม่มีแอลกอฮอล์ (สิ่งของ),Lunch: Non-alcoholic beverages (in-kind),,Lunch: Lunch: Non-alcoholic beverages (in-kind)
+EF13_3A,EF13A,อาหารเย็น (ตัวเงิน),Dinner (cash),,Lunch: Dinner (cash)
+EF13_3BC,EF13BC,อาหารเย็น (สิ่งของ),Dinner (in-kind),,Lunch: Dinner (in-kind)
+EF13_301A,EF13_3A,ข้าวราดแกง (ตัวเงิน),Dinner: Rice and curry (cash),Dinner: ,Dinner: Dinner: Rice and curry (cash)
+EF13_301BC,EF13_3BC,ข้าวราดแกง (สิ่งของ),Dinner: Rice and curry (in-kind),,Dinner: Dinner: Rice and curry (in-kind)
+EF13_302A,EF13_3A,ข้าวผัด (ตัวเงิน),Dinner: Fried rice (cash),,Dinner: Dinner: Fried rice (cash)
+EF13_302BC,EF13_3BC,ข้าวผัด (สิ่งของ),Dinner: Fried rice (in-kind),,Dinner: Dinner: Fried rice (in-kind)
+EF13_303A,EF13_3A,ผัดซีอิ๊ว/ราดหน้า (ตัวเงิน),Dinner: Fried stir noodles with soy sauce / (cash),,Dinner: Dinner: Fried stir noodles with soy sauce / (cash)
+EF13_303BC,EF13_3BC,ผัดซีอิ๊ว/ราดหน้า (สิ่งของ),Dinner: Fried stir noodles with soy sauce / (in-kind),,Dinner: Dinner: Fried stir noodles with soy sauce / (in-kind)
+EF13_304A,EF13_3A,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (ตัวเงิน),Dinner: Red pork rice / crispy pork / rice steamed (cash),,Dinner: Dinner: Red pork rice / crispy pork / rice steamed (cash)
+EF13_304BC,EF13_3BC,ข้าวหมูแดง/หมูกรอบ/ข้าวมันไก่ (สิ่งของ),Dinner: Red pork rice / crispy pork / rice steamed (in-kind),,Dinner: Dinner: Red pork rice / crispy pork / rice steamed (in-kind)
+EF13_305A,EF13_3A,ส้มตำ (ตัวเงิน),Dinner: Green papaya salad (cash),,Dinner: Dinner: Green papaya salad (cash)
+EF13_305BC,EF13_3BC,ส้มตำ (สิ่งของ),Dinner: Green papaya salad (in-kind),,Dinner: Dinner: Green papaya salad (in-kind)
+EF13_306A,EF13_3A,ยำประเภทต่าง ๆ (ตัวเงิน),Dinner: Various spicy salad (cash),,Dinner: Dinner: Various spicy salad (cash)
+EF13_306BC,EF13_3BC,ยำประเภทต่าง ๆ (สิ่งของ),Dinner: Various spicy salad (in-kind),,Dinner: Dinner: Various spicy salad (in-kind)
+EF13_307A,EF13_3A,กับข้าวสำเร็จรูป (แกงถุง) (ตัวเงิน),Dinner: Curry bag (cash),,Dinner: Dinner: Curry bag (cash)
+EF13_307BC,EF13_3BC,กับข้าวสำเร็จรูป (แกงถุง) (สิ่งของ),Dinner: Curry bag (in-kind),,Dinner: Dinner: Curry bag (in-kind)
+EF13_308A,EF13_3A,ก๋วยเตี๋ยว/บะหมี่ (ตัวเงิน),Dinner: Noodles (cash),,Dinner: Dinner: Noodles (cash)
+EF13_308BC,EF13_3BC,ก๋วยเตี๋ยว/บะหมี่ (สิ่งของ),Dinner: Noodles (in-kind),,Dinner: Dinner: Noodles (in-kind)
+EF13_309A,EF13_3A,โจ๊ก/ข้าวต้มทรงเครื่อง (ตัวเงิน),Dinner: Congee / Boiled Rice (cash),,Dinner: Dinner: Congee / Boiled Rice (cash)
+EF13_309BC,EF13_3BC,โจ๊ก/ข้าวต้มทรงเครื่อง (สิ่งของ),Dinner: Congee / Boiled Rice (in-kind),,Dinner: Dinner: Congee / Boiled Rice (in-kind)
+EF13_310A,EF13_3A,ต้มเลือดหมู (ตัวเงิน),Dinner: Blood tofu soup (cash),,Dinner: Dinner: Blood tofu soup (cash)
+EF13_310BC,EF13_3BC,ต้มเลือดหมู (สิ่งของ),Dinner: Blood tofu soup (in-kind),,Dinner: Dinner: Blood tofu soup (in-kind)
+EF13_311A,EF13_3A,ข้าวราดผัดกะเพรา (ตัวเงิน),Dinner: Fried basil on rice (cash),,Dinner: Dinner: Fried basil on rice (cash)
+EF13_311BC,EF13_3BC,ข้าวราดผัดกะเพรา (สิ่งของ),Dinner: Fried basil on rice (in-kind),,Dinner: Dinner: Fried basil on rice (in-kind)
+EF13_312A,EF13_3A,ข้าวเปล่า (ตัวเงิน),Dinner: Streamed rice (cash),,Dinner: Dinner: Streamed rice (cash)
+EF13_312BC,EF13_3BC,ข้าวเปล่า (สิ่งของ),Dinner: Streamed rice (in-kind),,Dinner: Dinner: Streamed rice (in-kind)
+EF13_313A,EF13_3A,ต้มยำ (ตัวเงิน),Dinner: Spicy soup (cash),,Dinner: Dinner: Spicy soup (cash)
+EF13_313BC,EF13_3BC,ต้มยำ (สิ่งของ),Dinner: Spicy soup (in-kind),,Dinner: Dinner: Spicy soup (in-kind)
+EF13_314A,EF13_3A,ผัดผัก (ตัวเงิน),Dinner: Stir-fried vegetables (cash),,Dinner: Dinner: Stir-fried vegetables (cash)
+EF13_314BC,EF13_3BC,ผัดผัก (สิ่งของ),Dinner: Stir-fried vegetables (in-kind),,Dinner: Dinner: Stir-fried vegetables (in-kind)
+EF13_315A,EF13_3A,ชุดสุกี้พร้อมทาน (ตัวเงิน),Dinner: Ready-to-eat Suki Set (cash),,Dinner: Dinner: Ready-to-eat Suki Set (cash)
+EF13_315BC,EF13_3BC,ชุดสุกี้พร้อมทาน (สิ่งของ),Dinner: Ready-to-eat Suki Set (in-kind),,Dinner: Dinner: Ready-to-eat Suki Set (in-kind)
+EF13_316A,EF13_3A,อาหารประเภทฟาสต์ฟู้ด (ตัวเงิน),Dinner: Fast food (cash),,Dinner: Dinner: Fast food (cash)
+EF13_316BC,EF13_3BC,อาหารประเภทฟาสต์ฟู้ด (สิ่งของ),Dinner: Fast food (in-kind),,Dinner: Dinner: Fast food (in-kind)
+EF13_317A,EF13_3A,ไก่ย่าง/ไก่ทอด (ตัวเงิน),Dinner: Grilled Chicken / Fried Chicken (cash),,Dinner: Dinner: Grilled Chicken / Fried Chicken (cash)
+EF13_317BC,EF13_3BC,ไก่ย่าง/ไก่ทอด (สิ่งของ),Dinner: Grilled Chicken / Fried Chicken (in-kind),,Dinner: Dinner: Grilled Chicken / Fried Chicken (in-kind)
+EF13_318A,EF13_3A,เป็ดพะโล้/เป็ดย่าง (ตัวเงิน),Dinner: Stewed Duck / Roasted Duck (cash),,Dinner: Dinner: Stewed Duck / Roasted Duck (cash)
+EF13_318BC,EF13_3BC,เป็ดพะโล้/เป็ดย่าง (สิ่งของ),Dinner: Stewed Duck / Roasted Duck (in-kind),,Dinner: Dinner: Stewed Duck / Roasted Duck (in-kind)
+EF13_319A,EF13_3A,หมูย่าง/หมูทอด (ตัวเงิน),Dinner: Grilled pork / fried pork (cash),,Dinner: Dinner: Grilled pork / fried pork (cash)
+EF13_319BC,EF13_3BC,หมูย่าง/หมูทอด (สิ่งของ),Dinner: Grilled pork / fried pork (in-kind),,Dinner: Dinner: Grilled pork / fried pork (in-kind)
+EF13_320A,EF13_3A,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (ตัวเงิน),Dinner: Fried fish / grilled fish / chili topped fish (cash),,Dinner: Dinner: Fried fish / grilled fish / chili topped fish (cash)
+EF13_320BC,EF13_3BC,ปลาทอด/ปลาเผา/ปลาย่าง/ปลาราดพริก (สิ่งของ),Dinner: Fried fish / grilled fish / chili topped fish (in-kind),,Dinner: Dinner: Fried fish / grilled fish / chili topped fish (in-kind)
+EF13_321A,EF13_3A,กุ้งเผา (ตัวเงิน),Dinner: Grilled shrimp (cash),,Dinner: Dinner: Grilled shrimp (cash)
+EF13_321BC,EF13_3BC,กุ้งเผา (สิ่งของ),Dinner: Grilled shrimp (in-kind),,Dinner: Dinner: Grilled shrimp (in-kind)
+EF13_322A,EF13_3A,ปูนึ่ง (ตัวเงิน),Dinner: Steamed crab (cash),,Dinner: Dinner: Steamed crab (cash)
+EF13_322BC,EF13_3BC,ปูนึ่ง (สิ่งของ),Dinner: Steamed crab (in-kind),,Dinner: Dinner: Steamed crab (in-kind)
+EF13_323A,EF13_3A,อาหารเย็นอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (ตัวเงิน),Dinner: Other dinner (Including tiffin) (cash),,Dinner: Dinner: Other dinner (Including tiffin) (cash)
+EF13_323BC,EF13_3BC,อาหารเย็นอื่น ๆ (ระบุ) (รวม อาหารปิ่นโต) (สิ่งของ),Dinner: Other dinner (Including tiffin) (in-kind),,Dinner: Dinner: Other dinner (Including tiffin) (in-kind)
+EF13_324A,EF13_3A,เครื่องดื่มที่ไม่มีแอลกอฮอล์ บริโภคนอกบ้าน พร้อมอาหารเย็น (ตัวเงิน),Non-alcoholic beverages consumed outside home with dinner (cash),,
+EF13_324BC,EF13_3BC,เครื่องดื่มที่ไม่มีแอลกอฮอล์ บริโภคนอกบ้าน พร้อมอาหารเย็น (สิ่งของ),Non-alcoholic beverages consumed outside home with dinner (in-kind),,
+EF13_4A,EF13A,อาหารว่าง/อาหารระหว่างมื้อ/อื่น ๆ (ระบุ) (ตัวเงิน),Snack / Food between meals / Other (specify) (cash),,
+EF13_4BC,EF13BC,อาหารว่าง/อาหารระหว่างมื้อ/อื่น ๆ (ระบุ) (สิ่งของ),Snack / Food between meals / Other (specify) (in-kind),,
+EF14A,EF_13,บริโภคที่บ้าน (ตัวเงิน),Consumed at home (cash),,
+EF14BC,EF_13,บริโภคที่บ้าน (สิ่งของ),Consumed at home (in-kind),,
+EF1401A,EF14A,บริโภคที่บ้าน: เบียร์ (ตัวเงิน),Consumed at home: Beer (cash),,
+EF1401BC,EF14BC,บริโภคที่บ้าน: เบียร์ (สิ่งของ),Consumed at home: Beer (in-kind),,
+EF1402A,EF14A,บริโภคที่บ้าน: ไวน์ (ตัวเงิน),Consumed at home: Wine (cash),,
+EF1402BC,EF14BC,บริโภคที่บ้าน: ไวน์ (สิ่งของ),Consumed at home: Wine (in-kind),,
+EF1403A,EF14A,บริโภคที่บ้าน: สุรา (ตัวเงิน),Consumed at home: Spirits (cash),,
+EF1403BC,EF14BC,บริโภคที่บ้าน: สุรา (สิ่งของ),Consumed at home: Spirits (in-kind),,
+EF1404A,EF14A,บริโภคที่บ้าน: อื่น ๆ (ตัวเงิน),Consumed at home: Others (cash),,
+EF1404BC,EF14BC,บริโภคที่บ้าน: อื่น ๆ (สิ่งของ),Consumed at home: Others (in-kind),,
+EF15A,EF_13,บริโภคนอกบ้าน (ตัวเงิน),Consumed away from home (cash),,
+EF15BC,EF_13,บริโภคนอกบ้าน (สิ่งของ),Consumed away from home (in-kind),,
+EF1501A,EF15A,บริโภคนอกบ้าน: เบียร์ (ตัวเงิน),Consumed away from home: Beer (cash),,
+EF1501BC,EF15BC,บริโภคนอกบ้าน: เบียร์ (สิ่งของ),Consumed away from home: Beer (in-kind),,
+EF1502A,EF15A,บริโภคนอกบ้าน: ไวน์ (ตัวเงิน),Consumed away from home: Wine (cash),,
+EF1502BC,EF15BC,บริโภคนอกบ้าน: ไวน์ (สิ่งของ),Consumed away from home: Wine (in-kind),,
+EF1503A,EF15A,บริโภคนอกบ้าน: สุรา (ตัวเงิน),Consumed away from home: Spirits (cash),,
+EF1503BC,EF15BC,บริโภคนอกบ้าน: สุรา (สิ่งของ),Consumed away from home: Spirits (in-kind),,
+EF1504A,EF15A,บริโภคนอกบ้าน: อื่น ๆ (ตัวเงิน),Consumed away from home: Others (specify) (cash),,
+EF1504BC,EF15BC,บริโภคนอกบ้าน: อื่น ๆ (สิ่งของ),Consumed away from home: Others (in-kind),,
+EF16A,EF_14,บุหรี่ ซิการ์ ยาเส้น ยาตั้ง ฯลฯ (ตัวเงิน),"Cigarette , tobacco, etc. (cash)",,
+EF16BC,EF_14,บุหรี่ ซิการ์ ยาเส้น ยาตั้ง ฯลฯ (สิ่งของ),"Cigarette , tobacco, etc. (in-kind)",,
+EF17A,EF_14,ยานัตถุ์ หมาก พลู ยาฉุน ยาจืด (ตัวเงิน),"Snuff, betel nut, betel, etc. (cash)",,
+EF17BC,EF_14,ยานัตถุ์ หมาก พลู ยาฉุน ยาจืด (สิ่งของ),"Snuff, betel nut, betel, etc. (in-kind)",,
