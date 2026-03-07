@@ -1,4 +1,4 @@
-﻿EducationLevelKey,ParentEducationLevelKey,ThaiEducationLevelName,EnglishEducationLevelName
+﻿EducLevelKey,ParentEducLevelKey,ThaiEducLevelName,EnglishEducLevelName
 1,,ระดับก่อนประถมศึกษา,Pre-primary Education
 11,1,สามัญศึกษา,General Education
 110,11,ผู้สำเร็จหลักสูตร,Graduated Level
@@ -197,3 +197,4 @@
 929,92,การศึกษาอื่นๆ ที่เทียบระดับไม่ได้,Others Incomparable Level
 98,9,เรียนแต่ไม่ทราบระดับการศึกษา,Schooling but Unknown Education Level
 980,98,เรียนแต่ไม่ทราบระดับการศึกษา,Schooling but Unknown Education Level
+
