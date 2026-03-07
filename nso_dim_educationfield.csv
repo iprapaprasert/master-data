@@ -1,4 +1,4 @@
-﻿EducationFieldKey,ParentEducationFieldKey,ThaiEducationFieldName,EnglishEducationFieldName
+﻿EducFieldKey,ParentEducFieldKey,ThaiEducFieldName,EnglishEducFieldName
 1,,การศึกษา,Education
 14,1,การฝึกหัดครูและศึกษาศาสตร์,Teacher Training and Education Science
 2,,มนุษยศาสตร์และศิลปกรรมศาสตร์,Humanities and Arts
@@ -29,3 +29,4 @@
 84,8,การบริการขนส่ง,Transport Services
 85,8,การคุ้มครองสิ่งแวดล้อม,Environmental Protection
 86,8,การบริการด้านการรักษาความปลอดภัย,Security Services
+
