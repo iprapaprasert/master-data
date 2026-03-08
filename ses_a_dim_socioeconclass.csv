@@ -1,0 +1,46 @@
+﻿SocioEconClassKey,ParentSocioEconClassKey,ThaiSocioEconClassName,EnglishSocioEconClassName
+0,,ผู้ไม่ได้ปฏิบัติงานในเชิงเศรษฐกิจ,Economically Inactive
+01,0,ผู้ไม่ได้ปฏิบัติงานในเชิงเศรษฐกิจ: บำเหน็จ บำนาญ เงินช่วยเหลือ,Economically Inactive: Receiving Assistance or Pensions
+02,0,ผู้ไม่ได้ปฏิบัติงานในเชิงเศรษฐกิจ: รายได้จากทรัพย์สิน,Economically Inactive: Property Income
+03,0,ผู้ไม่ได้ปฏิบัติงานในเชิงเศรษฐกิจ: รายได้อื่น ๆ,Economically Inactive: Other Income
+1,,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง,Farm Operator (Including Marine Culture) Who Mainly Owning Land
+11,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: น้อยกว่า 2 ไร่,Farm Operator (Including Marine Culture) Who Mainly Owning Land: Less than 2 rais
+12,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: 2 - 4 ไร่ 399 ตารางวา,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 2 to 4 rais and 399 tarangwas
+13,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: 5 - 9 ไร่ 399 ตารางวา,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 5 to 9 rais and 399 tarangwas
+14,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: 10 - 19 ไร่ 399 ตารางวา,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 10 to 19 rais and 399 tarangwas
+15,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: 20 - 39 ไร่ 399 ตารางวา,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 20 to 39 rais and 399 tarangwas
+16,1,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองเป็นของตนเอง: 40 ไร่ขึ้นไป,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 40 rais and over
+2,,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองไม่ใช่ของตนเอง,Farm Operator (Including Marine Culture) Who Mainly Renting Land / Occupied Free
+21,2,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองไม่ใช่ของตนเอง: น้อยกว่า 5 ไร่,Farm Operator (Including Marine Culture) Who Mainly Renting Land / Occupied Free: Less than 5 rai
+22,2,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองไม่ใช่ของตนเอง: 5 - 19 ไร่ 399 ตารางวา,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 5 to 19 rai and 399 tarangwas
+23,2,ผู้ทำการเกษตรและเพาะเลี้ยงสัตว์น้ำ ซึ่งที่ดินส่วนใหญ่ที่ถือครองไม่ใช่ของตนเอง: 20 ไร่ขึ้นไป,Farm Operator (Including Marine Culture) Who Mainly Owning Land: 20 rai and over
+3,,ผู้ทำประมง ป่าไม้ ล่าสัตว์ หาของป่า บริการทางการเกษตร,"Fishery, Forestry, Hunting, Agricultural Services"
+30,3,ผู้ทำประมง ป่าไม้ ล่าสัตว์ เก็บของป่า,"Fishery, Forestry, Hunting"
+35,3,ผู้ให้บริการทางการเกษตร,Agricultural Services
+4,,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร,Entrepreneurs for Non-Agricultural Business
+41,4,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร: ใช้ทักษะด้านการบริหาร,Entrepreneurs for Non-Agricultural Business: With managerial skill
+42,4,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร: ใช้ทักษะด้านวิชาชีพ ที่มีลูกจ้าง,Entrepreneurs for Non-Agricultural Business: With technical skill & With employees
+43,4,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร: ใช้ทักษะด้านวิชาชีพ ที่ไม่มีลูกจ้าง,Entrepreneurs for Non-Agricultural Business: With technical skill & Without employees
+44,4,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร: ใช้ทักษะด้านอื่น ๆ ที่มีลูกจ้าง,Entrepreneurs for Non-Agricultural Business: With others skill & With employees
+45,4,ผู้ประกอบธุรกิจของตนเองที่ไม่ใช่การเกษตร: ใช้ทักษะด้านอื่น ๆ ที่ไม่มีลูกจ้าง,Entrepreneurs for Non-Agricultural Business: With others skill & Without employees
+5,,ผู้จัดการ นักวิชาการ และผู้ปฏิบัติงานวิชาชีพ,"Professional, Technician and Manager"
+51,5,ผู้จัดการ,Manager
+52,5,นักวิชาการและผู้ประกอบวิชาชีพ,Professional
+53,5,เจ้าหน้าที่เทคนิคและผู้ประกอบวิชาชีพที่เกี่ยวข้อง,Technician
+6,,คนงานเกษตร ป่าไม้ และประมง,"Labourers in Agricultural, Forestry and Fishery"
+61,6,ผู้ปฏิบัติงานที่มีฝีมือด้านการเกษตร ป่าไม้ และประมง,"Skilled agricultural, Forestry and Fishery workers"
+62,6,ผู้ควบคุมเครื่องจักรโรงงานชนิดเคลื่อนที่ได้ที่ใช้ในด้านการเกษตรและป่าไม้,Mobile plant operators for agriculture and forestry
+63,6,คนงานด้านการเกษตร ป่าไม้ และประมง,"Labourers in agricultural, Forestry and Fishery"
+7,,คนงานด้านการขนส่งและงานพื้นฐาน,"Labourers in Logistics, Transportation and Basic Works"
+70,7,คนงานด้านการขนส่งและงานพื้นฐาน,"Labourers in Logistics, transportation and basic works"
+8,,เสมียน พนักงานขายและให้บริการ,"Clerical, Sales and Service Workers"
+81,8,เสมียน,Clerical
+82,8,พนักงานบริการและผู้จำหน่ายสินค้า,Sales and service workers
+83,8,ช่างฝีมือและผู้ปฏิบัติงานที่เกี่ยวข้อง (ยกเว้นในกระบวนการผลิต ก่อสร้าง และเหมืองแร่),Craft and related trades workers
+84,8,ผู้ขับยานยนต์และผู้ควบคุมเครื่องจักรโรงงานชนิดเคลื่อนที่ได้ (ยกเว้นในด้านการเกษตรและก่อสร้าง),Drivers and mobile plant operators
+85,8,คนงานทำความสะอาด ผู้ช่วยประกอบอาหาร ผู้จำหน่ายสินค้าและให้บริการตามถนน,"Cleaners, Food preparation assistants, Street food salespersons"
+86,8,ทหารทุกเหล่าทัพ,Armed forces occupations
+9,,ผู้ปฏิบัติงานในกระบวนการผลิต ก่อสร้าง และเหมืองแร่,"Production, Construction and Mining Workers"
+91,9,ผู้ปฏิบัติงานในกระบวนการผลิต ก่อสร้าง และเหมืองแร่: ผู้ปฏิบัติงานในกระบวนการผลิต,"Production, Construction and Mining Workers: Production Workers"
+92,9,ผู้ปฏิบัติงานในกระบวนการผลิต ก่อสร้าง และเหมืองแร่: ผู้ปฏิบัติงานในกระบวนการก่อสร้าง,Production Workers: Construction Workers
+93,9,ผู้ปฏิบัติงานในกระบวนการผลิต ก่อสร้าง และเหมืองแร่: ผู้ปฏิบัติงานในกระบวนการเหมืองแร่,Construction Workers: Mining Workers
