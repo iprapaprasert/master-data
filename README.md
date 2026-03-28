@@ -10,6 +10,12 @@ Most dimension tables are in child-parent hierarchy format (hierarchical format)
 | --- | --- | --- |
 | `nso_dim_industry.csv` | 5 | `IndustryKey` → `IndustryClassKey` → `IndustryGroupKey` → `IndustryDivisionKey` → `IndustrySectionKey` |
 
+## Notes on `flatten_hierarchy.py`
+This code is based on PySpark 3.5. To call this function, run the below code first to import prerequisite package:
+```
+from pyspark.sql.functions import *
+```
+
 # Notes and clarification
 ## Correspondence table of TSIC to IO Table Industry (`nesdc_conv_tsic_io`)
 Only 7 sectors cannot be mapped from TSIC to IO
