@@ -1,0 +1,189 @@
+"GovtFunctionKey","ParentGovtFunctionKey","ThaiGovtFunctionName","EnglishGovtFunctionName","GovtFunctionSvcTypeKey"
+"01",,"การบริหารทั่วไปของรัฐ","General public services",
+"011","01","องค์กรบริหารของรัฐ การบริหารงานคลัง การบริหารงานต่างประเทศ","Executive and legislative organs, financial and fiscal affairs, external affairs",
+"0111","011","องค์กรบริหารของรัฐ","Executive and legislative organs",1
+"0112","011","การบริหารงานคลัง","Financial and fiscal affairs",1
+"0113","011","การบริหารงานต่างประเทศ","External affairs",1
+"012","01","ความช่วยเหลือทางเศรษฐกิจต่างประเทศ","Foreign economic aid",
+"0121","012","ความช่วยเหลือทางเศรษฐกิจแก่ประเทศกำลังพัฒนา","Economic aid to developing countries and countries in transition",1
+"0122","012","ความช่วยเหลือทางเศรษฐกิจผ่านองค์การระหว่างประเทศ","Economic aid routed through international organizations",1
+"013","01","การบริหารทั่วไป","General services",
+"0131","013","การบริหารงานบุคคล","General personnel services",1
+"0132","013","งานวางแผนและสถิติ","Overall planning and statistical services",1
+"0133","013","การบริหารงานทั่วไปอื่น","Other general services",1
+"014","01","การวิจัยพื้นฐาน","Basic research",
+"0140","014","การวิจัยพื้นฐาน","Basic research",1
+"015","01","การวิจัยและการพัฒนาด้านการบริหารทั่วไปของรัฐ","R&D general public services",
+"0150","015","การวิจัยและการพัฒนาด้านการบริหารทั่วไปของรัฐ","R&D general public services",1
+"016","01","การบริหารทั่วไปอื่น","General public services n.e.c.",
+"0160","016","การบริหารทั่วไปอื่น","General public services n.e.c.",1
+"017","01","การชำระหนี้เงินกู้","Public debt transactions",
+"0170","017","การชำระหนี้เงินกู้","Public debt transactions",1
+"018","01","เงินโอนให้ท้องถิ่น","Transfers of a general character between different levels of government",
+"0180","018","เงินโอนให้ท้องถิ่น","Transfers of a general character between different levels of government",1
+"02",,"การป้องกันประเทศ","Defence",
+"021","02","งานกองทัพ","Military defence",
+"0210","021","งานกองทัพ","Military defence",1
+"022","02","การรักษาดินแดน","Civil defence",
+"0220","022","การรักษาดินแดน","Civil defence",1
+"023","02","ความช่วยเหลือทางการทหารแก่ต่างประเทศ","Foreign military aid",
+"0230","023","ความช่วยเหลือทางการทหารแก่ต่างประเทศ","Foreign military aid",1
+"024","02","การวิจัยประยุกต์และการพัฒนาอาวุธยุทโธปกรณ์","R&D defence",
+"0240","024","การวิจัยประยุกต์และการพัฒนาอาวุธยุทโธปกรณ์","R&D defence",1
+"025","02","การป้องกันอื่น","Defence n.e.c.",
+"0250","025","การป้องกันอื่น","Defence n.e.c.",1
+"03",,"การรักษาความสงบภายใน","Public order and safety",
+"031","03","งานตำรวจ","Police services",
+"0310","031","งานตำรวจ","Police services",1
+"032","03","งานป้องกันอัคคีภัย","Fire-protection services",
+"0320","032","งานป้องกันอัคคีภัย","Fire-protection services",1
+"033","03","งานตุลาการ","Law courts",
+"0330","033","งานตุลาการ","Law courts",1
+"034","03","งานราชทัณฑ์","Prisons",
+"0340","034","งานราชทัณฑ์","Prisons",1
+"035","03","การวิจัยและพัฒนาด้านการรักษาความสงบภายใน","R&D public order and safety",
+"0350","035","การวิจัยและพัฒนาด้านการรักษาความสงบภายใน","R&D public order and safety",1
+"036","03","งานรักษาความสงบภายในอื่น","Public order and safety n.e.c.",
+"0360","036","งานรักษาความสงบภายในอื่น","Public order and safety n.e.c.",1
+"04",,"การเศรษฐกิจ","Economic affairs",
+"041","04","การเศรษฐกิจทั่วไป การพาณิชย์ และการแรงงาน","General economic, commercial and labour affairs",
+"0411","041","การเศรษฐกิจทั่วไป และการพาณิชย์","General economic and commercial affairs",1
+"0412","041","การแรงงาน","General labour affairs",1
+"042","04","การเกษตร การป่าไม้ การประมง และการสงวนพันธุ์สัตว์ป่า","Agriculture, forestry, fishing and hunting",
+"0421","042","การเกษตร","Agriculture",1
+"0422","042","การป่าไม้","Forestry",1
+"0423","042","การประมง และการสงวนพันธุ์สัตว์ป่า","Fishing and hunting",1
+"043","04","การเชื้อเพลิงและพลังงาน","Fuel and energy",
+"0431","043","การทำเหมืองถ่านหินและแร่ที่เป็นเชื้อเพลิง","Coal and other solid mineral fuels",1
+"0432","043","งานปิโตรเลียมและก๊าซ","Petroleum and natural gas",1
+"0433","043","งานเชื้อเพลิงนิวเคลียร์","Nuclear fuel",1
+"0434","043","งานเชื้อเพลิงอื่น","Other non-mineral fuels",1
+"0435","043","การไฟฟ้า","Electricity",1
+"0436","043","การพลังงานอื่น","Nonelectric energy",1
+"044","04","การเหมืองแร่ ทรัพยากรธรณี การอุตสาหกรรม และการโยธา","Mining, manufacturing and construction",
+"0441","044","การเหมืองแร่ และทรัพยากรธรณี","Mining of mineral resources other than mineral fuels",1
+"0442","044","การอุตสาหกรรม","Manufacturing",1
+"0443","044","การโยธา","Construction",1
+"045","04","การขนส่ง","Transport",
+"0451","045","การขนส่งทางบก","Road transport",1
+"0452","045","การขนส่งทางน้ำ","Water transport",1
+"0453","045","การรถไฟ","Railway transport",1
+"0454","045","การขนส่งทางอากาศ","Air transport",1
+"0455","045","ระบบการขนส่งทางท่อและทางอื่น","Pipeline and other transport",1
+"046","04","การสื่อสาร","Communication",
+"0460","046","การสื่อสาร","Communication",1
+"047","04","การอุตสาหกรรมอื่น","Other industries",
+"0471","047","การค้า","Distributive trades, storage and warehousing",1
+"0472","047","การโรงแรมและภัตตาคาร","Hotels and restaurants",1
+"0473","047","การท่องเที่ยว","Tourism",1
+"0474","047","โครงการพัฒนาอเนกประสงค์","Multipurpose development projects",1
+"048","04","การวิจัยและการพัฒนาด้านการเศรษฐกิจ","R&D economic affairs",
+"0481","048","การวิจัยและการพัฒนาด้านการเศรษฐกิจทั่วไป การพาณิชย์ และแรงงาน","R&D general economic, commercial and labour affairs",1
+"0482","048","การวิจัยและการพัฒนาด้านการเกษตร การป่าไม้ การประมง และการสงวนพันธุ์สัตว์ป่า","R&D agriculture, forestry, fishing and hunting",1
+"0483","048","การวิจัยและการพัฒนาด้านการเชื้อเพลิงและพลังงาน","R&D fuel and energy",1
+"0484","048","การวิจัยและการพัฒนาด้านการเหมืองแร่ ทรัพยากรธรณี การอุตสาหกรรม และการโยธา","R&D mining, manufacturing and construction",1
+"0485","048","การวิจัยและการพัฒนาด้านการขนส่ง","R&D transport",1
+"0486","048","การวิจัยและการพัฒนาด้านการสื่อสาร","R&D communication",1
+"0487","048","การวิจัยและการพัฒนาด้านการอุตสาหกรรมอื่น","R&D other industries",1
+"049","04","การเศรษฐกิจอื่น","Economic affairs n.e.c.",
+"0490","049","การเศรษฐกิจอื่น","Economic affairs n.e.c.",1
+"05",,"การสิ่งแวดล้อม","Environmental protection",
+"051","05","การกำจัดของเสีย","Waste management",
+"0510","051","การกำจัดของเสีย","Waste management",1
+"052","05","การกำจัดน้ำเสีย","Waste water management",
+"0520","052","การกำจัดน้ำเสีย","Waste water management",1
+"053","05","การควบคุมและกำจัดมลภาวะ","Pollution abatement",
+"0530","053","การควบคุมและกำจัดมลภาวะ","Pollution abatement",1
+"054","05","การรักษาระบบนิเวศวิทยาและภูมิทัศน์","Protection of biodiversity and landscape",
+"0540","054","การรักษาระบบนิเวศวิทยาและภูมิทัศน์","Protection of biodiversity and landscape",1
+"055","05","การวิจัยและการพัฒนาด้านสิ่งแวดล้อม","R&D environmental protection",
+"0550","055","การวิจัยและการพัฒนาด้านสิ่งแวดล้อม","R&D environmental protection",1
+"056","05","การสิ่งแวดล้อมอื่น","Environmental protection n.e.c.",
+"0560","056","การสิ่งแวดล้อมอื่น","Environmental protection n.e.c.",1
+"06",,"การเคหะและชุมชน","Housing and community amenities",
+"061","06","การเคหะ","Housing development",
+"0610","061","การเคหะ","Housing development",1
+"062","06","การพัฒนาชุมชน","Community development",
+"0620","062","การพัฒนาชุมชน","Community development",1
+"063","06","การจัดหาน้ำอุปโภคบริโภค","Water supply",
+"0630","063","การจัดหาน้ำอุปโภคบริโภค","Water supply",1
+"064","06","งานไฟฟ้าถนน","Street lighting",
+"0640","064","งานไฟฟ้าถนน","Street lighting",1
+"065","06","การวิจัยและการพัฒนาด้านการเคหะและชุมชน","R&D housing and community amenities",
+"0650","065","การวิจัยและการพัฒนาด้านการเคหะและชุมชน","R&D housing and community amenities",1
+"066","06","การเคหะและชุมชนอื่น","Housing and community amenities n.e.c.",
+"0660","066","การเคหะและชุมชนอื่น","Housing and community amenities n.e.c.",1
+"07",,"การสาธารณสุข","Health",
+"071","07","งานอุปกรณ์การแพทย์","Medical products, appliances and equipment",
+"0711","071","งานอุปกรณ์เภสัชกรรม","Pharmaceutical products",1
+"0712","071","งานอุปกรณ์การแพทย์อื่น","Other medical products",1
+"0713","071","งานอุปกรณ์การบำบัดรักษา","Therapeutic appliances and equipment",1
+"072","07","งานสถานพยาบาลและผู้ป่วยนอก","Outpatient services",
+"0721","072","งานสถานพยาบาลทั่วไป","General medical services",1
+"0722","072","งานสถานพยาบาลเฉพาะโรค","Specialized medical services",1
+"0723","072","งานสถานทันตกรรม","Dental services",1
+"0724","072","งานสถานพยาบาลอื่น","Paramedical services",1
+"073","07","งานโรงพยาบาล","Hospital services",
+"0731","073","งานโรงพยาบาลทั่วไป","General hospital services",1
+"0732","073","งานโรงพยาบาลเฉพาะโรค","Specialized hospital services",1
+"0733","073","งานศูนย์อายุรเวชและสูตินารีเวช","Medical and maternity centre services",1
+"0734","073","งานสถานพักฟื้น","Nursing and convalescent home services",1
+"074","07","งานบริการสาธารณสุข","Public health services",
+"0740","074","งานบริการสาธารณสุข","Public health services",1
+"075","07","งานวิจัยสาธารณสุข","R&D health",
+"0750","075","งานวิจัยสาธารณสุข","R&D health",1
+"076","07","งานสาธารณสุขอื่น","Health n.e.c.",
+"0760","076","งานสาธารณสุขอื่น","Health n.e.c.",1
+"08",,"การศาสนา วัฒนธรรมและนันทนาการ","Recreation, culture and religion",
+"081","08","การกีฬาและนันทนาการ","Recreational and sporting services",
+"0810","081","การกีฬาและนันทนาการ","Recreational and sporting services",2
+"082","08","วัฒนธรรม","Cultural services",
+"0820","082","วัฒนธรรม","Cultural services",2
+"083","08","การกระจายเสียงและสิ่งพิมพ์","Broadcasting and publishing services",
+"0830","083","การกระจายเสียงและสิ่งพิมพ์","Broadcasting and publishing services",1
+"084","08","การศาสนาและบริการชุมชนอื่น","Religious and other community services",
+"0840","084","การศาสนาและบริการชุมชนอื่น","Religious and other community services",1
+"085","08","การวิจัยและการพัฒนาด้านการศาสนา วัฒนธรรมและนันทนาการ","R&D recreation, culture and religion",
+"0850","085","การวิจัยและการพัฒนาด้านการศาสนา วัฒนธรรมและนันทนาการ","R&D recreation, culture and religion",1
+"086","08","การศาสนา วัฒนธรรมและนันทนาการอื่น","Recreation, culture and religion n.e.c.",
+"0860","086","การศาสนา วัฒนธรรมและนันทนาการอื่น","Recreation, culture and religion n.e.c.",1
+"09",,"การศึกษา","Education",
+"091","09","ระดับก่อนวัยเรียนและประถมศึกษา","Pre-primary and primary education",
+"0911","091","ก่อนวัยเรียน","Pre-primary education",2
+"0912","091","การประถมศึกษา","Primary education",2
+"092","09","ระดับมัธยมศึกษา","Secondary education",
+"0921","092","มัธยมศึกษาตอนต้น","Lower-secondary education",2
+"0922","092","มัธยมศึกษาตอนปลาย","Upper-secondary education",2
+"093","09","ระดับสูงกว่ามัธยมศึกษา","Post-secondary non-tertiary education",
+"0930","093","ระดับสูงกว่ามัธยมศึกษา","Post-secondary non-tertiary education",2
+"094","09","ระดับอุดมศึกษา","Tertiary education",
+"0941","094","อุดมศึกษาตอนปลาย","First stage of tertiary education",2
+"0942","094","อุดมศึกษาตอนต้น","Second stage of tertiary education",2
+"095","09","การศึกษาไม่กำหนดระดับ","Education not definable by level",
+"0950","095","การศึกษาไม่กำหนดระดับ","Education not definable by level",2
+"096","09","การบริการสนับสนุนการศึกษา","Subsidiary services to education",
+"0960","096","การบริการสนับสนุนการศึกษา","Subsidiary services to education",2
+"097","09","การวิจัยและการพัฒนาด้านการศึกษา","R&D education",
+"0970","097","การวิจัยและการพัฒนาด้านการศึกษา","R&D education",1
+"098","09","การศึกษาอื่น","Education n.e.c.",
+"0980","098","การศึกษาอื่น","Education n.e.c.",1
+"10",,"การสังคมสงเคราะห์","Social protection",
+"101","10","การประกันสังคม","Sickness and disability",
+"1011","101","เงินทดแทนการเจ็บป่วย","Sickness",2
+"1012","101","เงินทดแทนแก่คนพิการ","Disability",2
+"102","10","สวัสดิการผู้สูงอายุ","Old age",
+"1020","102","สวัสดิการผู้สูงอายุ","Old age",2
+"103","10","เงินทดแทนแก่ทายาทของผู้ได้รับสิทธิจากประกันสังคม","Survivors",
+"1030","103","เงินทดแทนแก่ทายาทของผู้ได้รับสิทธิจากประกันสังคม","Survivors",2
+"104","10","เงินช่วยเหลือครอบครัวและบุตร","Family and children",
+"1040","104","เงินช่วยเหลือครอบครัวและบุตร","Family and children",2
+"105","10","เงินทดแทนการตกงาน","Unemployment",
+"1050","105","เงินทดแทนการตกงาน","Unemployment",2
+"106","10","การสงเคราะห์ด้านที่อยู่อาศัย","Housing",
+"1060","106","การสงเคราะห์ด้านที่อยู่อาศัย","Housing",2
+"107","10","สวัสดิการสังคมอื่น","Social exclusion n.e.c.",
+"1070","107","สวัสดิการสังคมอื่น","Social exclusion n.e.c.",2
+"108","10","การวิจัยและการพัฒนาด้านการสังคมสงเคราะห์","R&D social protection",
+"1080","108","การวิจัยและการพัฒนาด้านการสังคมสงเคราะห์","R&D social protection",1
+"109","10","การสังคมสงเคราะห์อื่น","Social protection n.e.c.",
+"1090","109","การสังคมสงเคราะห์อื่น","Social protection n.e.c.",1
