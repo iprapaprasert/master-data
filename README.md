@@ -28,4 +28,4 @@ Only 7 sectors cannot be mapped from TSIC to IO
 - `77299`
 
 ## COFOG
-In column `GovtFunctionSvcKey`, 1 denotes collective services (CS) and 2 denotes individual services (IS) respectively.
+In column `GovtFunctionSvcKey`, `1` denotes collective services (CS) and `2` denotes individual services (IS) respectively.
