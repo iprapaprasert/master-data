@@ -9,6 +9,7 @@ Most dimension tables are in child-parent hierarchy format (hierarchical format)
 | File | Maximum level (`maxlvl`) | Recommended name for key column (from the lowest-level to the highest-level) |
 | --- | --- | --- |
 | `nso_dim_industry.csv` | 5 | `IndustryKey` → `IndustryClassKey` → `IndustryGroupKey` → `IndustryDivisionKey` → `IndustrySectionKey` |
+| `un_dim_govtfunction.csv` | 3 | `GovtFunctionKey` → `GovtFunctionGroupKey` → `IndustryDivisionKey` |
 
 ## Notes on `flatten_hierarchy.py`
 This code is based on PySpark 3.5. To call this function, run the below code first to import prerequisite package:
@@ -25,3 +26,6 @@ Only 7 sectors cannot be mapped from TSIC to IO
 - `38120`
 - `43309`
 - `77299`
+
+## COFOG
+In column `GovtFunctionSvcKey`, 1 denotes collective services (CS) and 2 denotes individual services (IS) respectively.
